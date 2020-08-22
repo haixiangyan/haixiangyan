@@ -1,4 +1,4 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/realdonaldtrump?style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/realdonaldtrump?style=social)
 
 Hi there 👋 我是懂王
 
