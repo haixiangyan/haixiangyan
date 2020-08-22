@@ -1,3 +1,3 @@
 Hi there 👋 我是懂王
 
-![](https://raw.githubusercontent.com/Haixiang6123/pic-bed/master/blog/trump.gif)
+![](http://ww3.sinaimg.cn/large/9150e4e5ly1fd7ku61tbpg20a005n7w6.gif)
