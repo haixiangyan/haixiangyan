@@ -1,4 +1,4 @@
-# 🚧 Transferring the domain yanhaixiang.com, some links are not accessible right now :(
+# 🚧 Transferring out the domain yanhaixiang.com, some links are not accessible right now :(
 
 Hi there 👋 I am Haixiang.
 
