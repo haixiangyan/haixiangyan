@@ -2,4 +2,4 @@
 
 Hi there 👋 我是海翔。
 
-![](https://upload-images.jianshu.io/upload_images/2979799-87ad21589ee06715.png | width=100)
+<img src="https://upload-images.jianshu.io/upload_images/2979799-87ad21589ee06715.png" alt=""/>
