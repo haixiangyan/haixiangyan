@@ -1,4 +1,4 @@
-# 🚧 Transferring *yanhaixiang.com*, some links are not accessible right now :(
+# 👏 yanhaixiang.com will be back online soon!
 
 Hi there 👋 I am Haixiang.
 
