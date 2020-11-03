@@ -1,4 +1,4 @@
-# 👏 yanhaixiang.com will be back online soon!
+# 😄 [yanhaixiang.com](yanhaixiang.com) is now back online!
 
 Hi there 👋 I am Haixiang.
 
