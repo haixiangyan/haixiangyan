@@ -1,10 +1,8 @@
-# 😄 [yanhaixiang.com](https://yanhaixiang.com) is now back online!
+## About Me
 
 Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Haixiang.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=haixiang6123&show_icons=true&hide_border=true&theme=vue-dark" />
-
-**About me:**
 
 - 🧑‍💻  I’m a frontend engineer currently working at @Tencent! 🏆
 - 👑  I'm also familiar with React, Vue, JavaScript, TypeScript...
@@ -13,7 +11,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 ---
 
-【腾讯在线教育前端招聘】
+## 【腾讯在线教育前端招聘】
 
 校招、实习 HC 巨多，特别缺人。期待优秀的你~
 
