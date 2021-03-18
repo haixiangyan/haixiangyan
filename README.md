@@ -15,7 +15,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 * [Medium](https://medium.com/@haixiang6123)
 * [简书](https://www.jianshu.com/u/0340be4082b5)
-* [知乎](https://www.zhihu.com/people/yan-hai-87-22）
+* [知乎](https://www.zhihu.com/people/yan-hai-87-22)
 * [掘金](https://juejin.cn/user/272334614432887)
 * [CSDN](https://blog.csdn.net/MonsterException?spm=1010.2135.3001.5343)
 * [慕课网手记](https://www.imooc.com/u/2742435/articles)
