@@ -5,7 +5,7 @@
 Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Haixiang.
 
 - I’m a frontend engineer currently working at @Tencent! 🏆
-- Familiar with React, Vue, JavaScript, TypeScript... ☕️
+- Familiar with React, TS, Vue... ☕️
 - Ask me about anything, I am happy to help 🪄
 - How to reach me: haixiang6123@gmail.com ✉️
 - More about me at [yanhaixiang.com](https://yanhaixiang.com)
