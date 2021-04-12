@@ -1,6 +1,6 @@
 ## Right now I am making...
 
-A [sooooo cute banana](https://yanhaixiang.com/banana/)!
+A [sooooo cute banana](https://yanhaixiang.com/banana/)🍌🍌!
 
 ## About Me
 
