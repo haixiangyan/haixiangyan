@@ -20,12 +20,3 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 * [简书](https://www.jianshu.com/u/0340be4082b5)
 * [知乎](https://www.zhihu.com/people/yan-hai-87-22)
 * [掘金](https://juejin.cn/user/272334614432887)
-
-
-## 【腾讯在线教育前端招聘】
-
-校招、实习 HC 巨多，特别缺人。期待优秀的你~
-
-办公地点：深圳万利达大厦。
-
-简历无脑直接递到组长，请发： haixiang6123@gmail.com
