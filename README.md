@@ -1,6 +1,6 @@
 ## Right now I am making...
 
-A [sooooo cute banana](https://yanhaixiang.com/banana/)🍌🍌!
+🔥 欢迎阅读新鲜出炉的 [《一天一个 npm 轮子系列》](https://github.com/Haixiang6123/one-day-one-npm-lib)
 
 ## About Me
 
@@ -15,8 +15,6 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - More about me at [yanhaixiang.com](https://yanhaixiang.com)
 
 ## Articles
-
-🔥 目前我正在写 [造轮子系列文章](https://github.com/Haixiang6123/wheels)
 
 * [Medium](https://medium.com/@haixiang6123)
 * [简书](https://www.jianshu.com/u/0340be4082b5)
