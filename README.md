@@ -21,4 +21,4 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 * [知乎](https://www.zhihu.com/people/yan-hai-87-22)
 * [掘金](https://juejin.cn/user/272334614432887)
 
-🔥🔥 目前我正在写 [造轮子系列文章](https://github.com/Haixiang6123/wheels)
+🔥 目前我正在写 [造轮子系列文章](https://github.com/Haixiang6123/wheels)
