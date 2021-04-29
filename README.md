@@ -1,6 +1,6 @@
 ## Right now I am making...
 
-🔥 欢迎阅读新鲜出炉的 [《一天一个 npm 轮子系列》](https://github.com/Haixiang6123/one-day-one-npm-lib)
+🔥 欢迎阅读新鲜出炉的 [《一天一个 npm 轮子系列》](https://github.com/Haixiang6123/one-day-one-npm-lib) ![](https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=social)
 
 ## About Me
 
