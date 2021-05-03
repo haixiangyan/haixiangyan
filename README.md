@@ -1,6 +1,7 @@
 ## Currently working on...
 
-🔥 欢迎阅读新鲜出炉的 [《一天一个 npm 轮子系列》](https://github.com/Haixiang6123/one-day-one-npm-lib) ![](https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=social)
+* 🔥 欢迎阅读新鲜出炉的 [《一天一个 npm 轮子系列》](https://github.com/Haixiang6123/one-day-one-npm-lib) ![](https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=social)
+* [node-autodoc](https://github.com/Haixiang6123/node-autodoc): A test-driven generator for API documenation.
 
 ## About Me
 
