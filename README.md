@@ -23,5 +23,8 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 * [简书](https://www.jianshu.com/u/0340be4082b5)
 * [知乎](https://www.zhihu.com/people/yan-hai-87-22)
 * [掘金](https://juejin.cn/user/272334614432887)
+
+## Video Channels
+
 * [Bilibili](https://space.bilibili.com/383357363)
 * [Youtube](https://www.youtube.com/channel/UCnNaqkm6kgUhZc2VYhsXzLA)
