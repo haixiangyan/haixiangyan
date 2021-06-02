@@ -3,6 +3,8 @@
 * 🕋 An amazing [spinning cube](https://yanhaixiang.com/cube/). Check it out, it's really fun!
 * 🔥 欢迎阅读新鲜出炉的 [《一天学习一个 npm 轮子，十天后变成轮子哥》💪](https://github.com/Haixiang6123/one-day-one-npm-lib) ![](https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=social)
 * 🔨 [node-autodoc](https://github.com/Haixiang6123/node-autodoc): API documentation generator driven by unit testing.
+* 我的 Bilibili 
+<iframe src="//player.bilibili.com/player.html?aid=673258105&bvid=BV1JU4y1L7D9&cid=346251710&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## About Me
 
