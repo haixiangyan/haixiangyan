@@ -1,6 +1,6 @@
 ## 🥳 Recently happening...
 
-* 🎬 Just started my video channel on [Bilibili](https://space.bilibili.com/383357363) and [Youtube](https://www.youtube.com/channel/UCnNaqkm6kgUhZc2VYhsXzLA) ☺️. Feel free to 👍 and 🔔.
+* 🎬 Just started my video channel on [Bilibili](https://space.bilibili.com/383357363) and [Youtube](https://www.youtube.com/channel/UCnNaqkm6kgUhZc2VYhsXzLA) ☺️. Feel free to 👍  and 🔔.
 * 🕋 An amazing [spinning cube](https://yanhaixiang.com/cube/). Check it out, it's really fun!
 * 🔥 欢迎阅读新鲜出炉的 [《一天学习一个 npm 轮子，十天后变成轮子哥》💪](https://github.com/Haixiang6123/one-day-one-npm-lib) ![](https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=social)
 * 🔨 [node-autodoc](https://github.com/Haixiang6123/node-autodoc): API documentation generator driven by unit testing.
