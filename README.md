@@ -1,10 +1,10 @@
-## 🥳 Recently happening...
+## 🥳 What's up
 
 * 🕋 An amazing [spinning cube](https://yanhaixiang.com/cube/). Check it out, it's really fun!
 * 🔥 欢迎阅读新鲜出炉的 [《一天学习一个 npm 轮子，十天后变成轮子哥》](https://github.com/Haixiang6123/one-day-one-npm-lib) ![](https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=social)
 * 🔨 [node-autodoc](https://github.com/Haixiang6123/node-autodoc): API documentation generator driven by unit testing.
 
-## 🤩 About Me
+## 🤩 Me
 
 <img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=haixiang6123&show_icons=true&hide_border=true&theme=vue-dark" />
 
