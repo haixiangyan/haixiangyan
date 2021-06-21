@@ -23,6 +23,4 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 * [知乎](https://www.zhihu.com/people/yan-hai-87-22)
 * [掘金](https://juejin.cn/user/272334614432887)
 
-<p align="center">
-  <img src="https://wx4.sinaimg.cn/orj360/0088Rzyrgy1grqce3odsaj61ir0mgq5802.jpg" />
-</p>
+![](https://wx4.sinaimg.cn/orj360/0088Rzyrgy1grqce3odsaj61ir0mgq5802.jpg)
