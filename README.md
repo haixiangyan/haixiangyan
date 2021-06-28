@@ -1,22 +1,23 @@
-## 🥳 What's up
+## 🥳 最近在干嘛
 
-* 🕋 An amazing [spinning cube](https://yanhaixiang.com/cube/). Check it out, it's really fun!
-* 🔥 欢迎阅读新鲜出炉的 [《一天学习一个 npm 轮子，十天后变成轮子哥》](https://github.com/Haixiang6123/one-day-one-npm-lib) ![](https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=social)
-* 🔨 [node-autodoc](https://github.com/Haixiang6123/node-autodoc): API documentation generator driven by unit testing.
+* 🎸 重写了 [个人主页](https://yanhaixiang.com/)
+* 🕋 制作一个酷炫的 [立方体](https://yanhaixiang.com/cube/)
+* 🔥 前端进阶必看的 [《一天学习一个 npm 轮子，十天后变成轮子哥》](https://github.com/Haixiang6123/one-day-one-npm-lib) ![](https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=social)
+* 🔨 制作一个通过单测驱动的 [API 文档生成器](https://github.com/Haixiang6123/node-autodoc)
 
-## 🤩 Me
+## 🤩 我
 
 <img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=haixiang6123&show_icons=true&hide_border=true&theme=vue-dark" />
 
-Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Haixiang.
+哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 我是海怪.
 
-- I’m a frontend engineer currently working at @Tencent! 🏆
-- Familiar with React, TS, Vue... ☕️
-- Ask me about anything, I am happy to help 🪄
-- How to reach me: haixiang6123@gmail.com ✉️
-- More about me at [yanhaixiang.com](https://yanhaixiang.com)
+- 我是腾讯的一名前端小开发 🏆
+- 熟悉 React, Vue, TypeScript, Sass... ☕️
+- 有啥问啥，可以通过下方链接联系我 🪄
+- 电邮：haixiang6123@gmail.com ✉️
+- 非常好看的主页：[yanhaixiang.com](https://yanhaixiang.com)
 
-## 📖 Articles
+## 📖 文章
 
 * [Medium](https://medium.com/@haixiang6123)
 * [简书](https://www.jianshu.com/u/0340be4082b5)
