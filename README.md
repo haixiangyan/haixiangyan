@@ -1,9 +1,9 @@
 ## 🥳 最近在干嘛
 
+* 🔊 开通了公众号「写代码的海怪」
 * 🎸 重写了 [个人主页](https://yanhaixiang.com/)
 * 🕋 制作一个酷炫的 [立方体](https://yanhaixiang.com/cube/)
 * 🔥 写了一本**前端进阶必看**的小书 [《一天学习一个 npm 轮子，十天后变成轮子哥》](https://github.com/Haixiang6123/one-day-one-npm-lib) ![](https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=social)
-* 🔨 制作一个通过单测驱动的 [API 文档生成器](https://github.com/Haixiang6123/node-autodoc)
 
 ## 🤩 我
 
