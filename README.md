@@ -2,7 +2,7 @@
 
 * 🐱 学习 [Nest.js](https://nestjs.com/)，并写了一个混合多种 Nest.js 玩法的 [nest-todo](https://github.com/haixiangyan/nest-todo) 练手项目 ![](https://img.shields.io/github/stars/haixiangyan/nest-todo?style=social)
 * 🔊 开通了公众号[「写代码的海怪」](./扫码_搜索联合传播样式-标准色版.png)
-* 🎸 重写了 [个人主页](https://yanhaixiang.cn/)
+* 🎸 重写了 [个人主页](https://yanhaixiang.com/)
 * 🔥 写了一本**前端进阶必看**的小书 [《一天学习一个 npm 轮子，十天后变成轮子哥》](https://github.com/haixiangyan/one-day-one-npm-lib) ![](https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=social)
 
 ## 🤩 我
@@ -15,7 +15,7 @@
 - 熟悉 React, Vue, TypeScript, Sass... ☕️
 - 有啥问啥，可以通过下方链接联系我 🪄
 - 电邮：haixiang6123@gmail.com ✉️
-- 非常好看的主页：[yanhaixiang.cn](https://yanhaixiang.cn)
+- 非常好看的主页：[yanhaixiang.cn](https://yanhaixiang.com)
 
 ## 📖 文章
 
