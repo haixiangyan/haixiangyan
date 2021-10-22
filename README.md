@@ -15,7 +15,7 @@
 - 熟悉 React, Vue, TypeScript, Sass... ☕️
 - 有啥问啥，可以通过下方链接联系我 🪄
 - 电邮：haixiang6123@gmail.com ✉️
-- 非常好看的主页：[yanhaixiang.cn](https://yanhaixiang.com)
+- 非常好看的主页：[yanhaixiang.com](https://yanhaixiang.com)
 
 ## 📖 文章
 
