@@ -1,6 +1,6 @@
 ## 🥳 最近在干嘛
 
-* 🍙 做了一个企业微信侧边栏的 [开发指南](https://wecom-sidebar.github.io/) 和 [一堆开发模板](https://github.com/wecom-sidebar) https://img.shields.io/github/stars/wecom-sidebar?style=social
+* 🍙 做了一个企业微信侧边栏的 [开发指南](https://wecom-sidebar.github.io/) 和 [一堆开发模板](https://github.com/wecom-sidebar) ![](https://img.shields.io/github/stars/wecom-sidebar?style=social)
 * 🐱 学习 [Nest.js](https://nestjs.com/)，并写了一个混合多种 Nest.js 玩法的 [nest-todo](https://github.com/haixiangyan/nest-todo) 练手项目 ![](https://img.shields.io/github/stars/haixiangyan/nest-todo?style=social)
 * 🔊 开通了公众号[「写代码的海怪」](./扫码_搜索联合传播样式-标准色版.png)
 * 🎸 重写了 [个人主页](https://yanhaixiang.com/)
