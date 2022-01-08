@@ -22,6 +22,6 @@
 
 * [Medium](https://medium.com/@haixiang6123)
 * [简书](https://www.jianshu.com/u/0340be4082b5)
-* [知乎](https://www.zhihu.com/people/yan-hai-87-22)
+* [知乎](https://www.zhihu.com/people/haixiangyan)
 * [掘金](https://juejin.cn/user/272334614432887)
 * 公众号[「写代码的海怪」](./扫码_搜索联合传播样式-标准色版.png)
