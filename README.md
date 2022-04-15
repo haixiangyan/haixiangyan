@@ -25,5 +25,5 @@
 
 ## 💼 项目
 * [企业微信侧边栏开发指南](https://wecom-sidebar.github.io/) 和 [一堆开发模板](https://github.com/wecom-sidebar) ![](https://img.shields.io/github/stars/wecom-sidebar?style=social)
-* [nest-todo](https://github.com/haixiangyan/nest-todo) 练手项目 ![](https://img.shields.io/github/stars/haixiangyan/nest-todo?style=social)
+* [nest-todo 一个 Nest.js 的练手项目](https://github.com/haixiangyan/nest-todo) ![](https://img.shields.io/github/stars/haixiangyan/nest-todo?style=social)
 * [个人主页](https://yanhaixiang.com/) ![](https://img.shields.io/github/stars/haixiangyan/me?style=social)
