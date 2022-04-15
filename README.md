@@ -26,10 +26,13 @@
 * 🔥 [《一天学习一个 npm 轮子，十天后变成轮子哥》](https://github.com/haixiangyan/one-day-one-npm-lib) 前端进阶必看的造轮子小书 ![](https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=social)
 
 ## 💼 项目
+
+* 🎧 [ttplayer](https://github.com/haixiangyan/ttplayer) 千千静听 ![](https://img.shields.io/github/stars/haixiangyan/ttplayer?style=social)
 * 🏠 [企业微信侧边栏开发指南](https://wecom-sidebar.github.io/) 和 [一堆开发模板](https://github.com/wecom-sidebar) ![](https://img.shields.io/github/stars/wecom-sidebar?style=social)
 * 🐱 [nest-todo](https://github.com/haixiangyan/nest-todo) 一个 Nest.js 的练手项目 ![](https://img.shields.io/github/stars/haixiangyan/nest-todo?style=social)
 * 👦 [me](https://yanhaixiang.com/) 个人主页 ![](https://img.shields.io/github/stars/haixiangyan/me?style=social)
 * 🎮 [overwatch-ui](https://github.com/haixiangyan/overwatch-ui) 守望先锋 UI 库 ![](https://img.shields.io/github/stars/haixiangyan/overwatch-ui?style=social)
 * 💅 [codeblkock-beautifier](https://github.com/haixiangyan/codeblock-beautifier) 一个用于美化网页代码块的 Chrome 插件 ![](https://img.shields.io/github/stars/haixiangyan/codeblock-beautifier?style=social)
 * 🎸 [guitar-editor](https://github.com/haixiangyan/guitar-editor) 一个在线吉他谱编辑器 ![](https://img.shields.io/github/stars/haixiangyan/guitar-editor?style=social)
+* 🧾 [weixin-cash](https://github.com/haixiangyan/weixin-cash) 仿微信记账网页版 ![](https://img.shields.io/github/stars/haixiangyan/weixin-cash?style=social)
 * 🖕 [wtf-cli](https://github.com/haixiangyan/wtf-cli) 一个查询英文简写/缩写的命令行工具 ![](https://img.shields.io/github/stars/haixiangyan/wtf-cli?style=social)
