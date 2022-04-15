@@ -20,8 +20,10 @@
 
 ## 📚 小书
 
-* 👮‍♀️ [《前端 Linter 上手完全指南》教程](https://github.yanhaixiang.com/linter-guide/) ![](https://img.shields.io/github/stars/haixiangyan/linter-guide?style=social)
-* 🔥 [《一天学习一个 npm 轮子，十天后变成轮子哥》](https://github.com/haixiangyan/one-day-one-npm-lib) ![](https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=social)
+* 🃏 [《Jest 前端测试上车之路》](https://github.com/haixiangyan/jest-starter) 【开发中...】前端最全的 Jest 上手指南，一个项目贯穿前端测试的暗坑和测试技巧 ![](https://img.shields.io/github/stars/haixiangyan/jest-starter?style=social)
+* 🐛 [《坑》](https://github.com/haixiangyan/keng) 我在开发过程中遇到的坑 ![](https://img.shields.io/github/stars/haixiangyan/keng?style=social)
+* 👮‍♀️ [《前端 Linter 上手完全指南》](https://github.yanhaixiang.com/linter-guide/) 前端最全的关于 Linter 的上手小书 ![](https://img.shields.io/github/stars/haixiangyan/linter-guide?style=social)
+* 🔥 [《一天学习一个 npm 轮子，十天后变成轮子哥》](https://github.com/haixiangyan/one-day-one-npm-lib) 前端进阶必看的造轮子小书 ![](https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=social)
 
 ## 💼 项目
 * 🏠 [企业微信侧边栏开发指南](https://wecom-sidebar.github.io/) 和 [一堆开发模板](https://github.com/wecom-sidebar) ![](https://img.shields.io/github/stars/wecom-sidebar?style=social)
