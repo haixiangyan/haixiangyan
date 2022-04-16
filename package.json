@@ -1,0 +1,23 @@
+{
+  "name": "haixiangyan",
+  "version": "1.0.0",
+  "description": "<img style=\"width: 50%\" align=\"right\" src=\"https://github-readme-stats.vercel.app/api?username=haixiangyan&show_icons=true&hide_border=true&theme=vue-dark\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haixiangyan/haixiangyan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haixiangyan/haixiangyan/issues"
+  },
+  "homepage": "https://github.com/haixiangyan/haixiangyan#readme",
+  "dependencies": {
+    "ejs": "^3.1.6"
+  }
+}

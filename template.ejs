@@ -1,0 +1,39 @@
+<h2>## 🤩 我</h2>
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
+
+<p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 我是海怪.</p>
+
+<img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=haixiangyan&show_icons=true&hide_border=true&theme=vue-dark" />
+
+<h2>📖 文章</h2>
+<ul>
+    <% social.forEach(function(socialItem){ %>
+    <li>
+        <a target="_blank" href="<% socialItem.url %>"><% socialItem.name %></a>
+    </li>
+    <% }); %>
+</ul>
+
+<h2>📚 小书</h2>
+<table>
+    <tr>
+        <th>书名</th>
+        <th>描述</th>
+        <th>成就</th>
+    </tr>
+
+    <% books.forEach(function(book){ %>
+    <tr>
+        <th>
+            <a href="<%= book.url %>" target="_blank"><%= book.name %></a>
+        </th>
+        <th><%= book.desc %></th>
+        <th>
+            <% book.badges.forEach(function(badge){ %>
+            <img src="<%= badge %>" alt="badge">
+            <% }); %>
+        </th>
+    </tr>
+    <% }); %>
+</table>
