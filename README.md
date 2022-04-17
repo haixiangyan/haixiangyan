@@ -145,6 +145,7 @@
       <th>一个 Nest.js 的练手项目</th>
       <th>
         <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&amp;logo=nestjs&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/haixiangyan/nest-todo?style=flat-square" alt="badge">
@@ -266,6 +267,7 @@
       </th>
       <th>一个让你可以反着写代码的 VsCode 插件</th>
       <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
         <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg?style=flat-square" alt="badge">
       </th>
       <th>
