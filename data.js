@@ -26,8 +26,8 @@ const data = {
     },
     {
       logo: '🏠',
-      name: 'wecom-sidebar',
-      desc: '企业微信侧边栏开发指南',
+      name: '企业微信侧边栏开发指南',
+      desc: '企业微信侧边栏开发指南以及一系列的开发模板',
       url: 'https://wecom-sidebar.github.io/',
       cover: './images/covers/wecom.jpg',
       badges: ['https://img.shields.io/github/stars/wecom-sidebar?style=flat-square'],
