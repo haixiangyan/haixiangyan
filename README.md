@@ -80,7 +80,7 @@
       </th>
       <th>前端最全的关于 Linter 的上手小书</th>
       <th>
-        <img src="https://img.shields.io/github/stars/haixiangyan/linter-guide?style=flat-square)" alt="badge">
+        <img src="https://img.shields.io/github/stars/haixiangyan/linter-guide?style=flat-square" alt="badge">
       </th>
     </tr>
     <tr>
@@ -114,7 +114,6 @@
 <table>
   <thead align="center">
     <tr>
-      <th>Logo</th>
       <th>项目</th>
       <th>简述</th>
       <th>技术</th>
@@ -123,12 +122,11 @@
   </thead>
   <tbody align="left">
     <tr>
-      <th align="center">🎧</th>
       <th>
         <a href="https://github.yanhaixiang.com/ttplayer/" target="_blank">
         ttplayer</a>
       </th>
-      <th>千千静听</th>
+      <th>🎧 千千静听</th>
       <th>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
       </th>
@@ -137,12 +135,11 @@
       </th>
     </tr>
     <tr>
-      <th align="center">🐱</th>
       <th>
         <a href="https://github.com/haixiangyan/nest-todo" target="_blank">
         nest-todo</a>
       </th>
-      <th>一个 Nest.js 的练手项目</th>
+      <th>🐱 一个 Nest.js 的练手项目</th>
       <th>
         <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&amp;logo=nestjs&amp;logoColor=white" alt="badge">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
@@ -152,12 +149,11 @@
       </th>
     </tr>
     <tr>
-      <th align="center">👦</th>
       <th>
         <a href="https://github.com/haixiangyan/me" target="_blank">
         me</a>
       </th>
-      <th>个人主页</th>
+      <th>👦 个人主页</th>
       <th>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
@@ -168,12 +164,11 @@
       </th>
     </tr>
     <tr>
-      <th align="center">🎮</th>
       <th>
         <a href="https://github.yanhaixiang.com/overwatch-ui-doc/#/" target="_blank">
         overwatch-ui</a>
       </th>
-      <th>守望先锋 UI 库</th>
+      <th>🎮 守望先锋 UI 库</th>
       <th>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&amp;logo=sass&amp;logoColor=white" alt="badge">
@@ -184,12 +179,11 @@
       </th>
     </tr>
     <tr>
-      <th align="center">💅</th>
       <th>
         <a href="https://chrome.google.com/webstore/detail/code-block-beautifier/gpcjjddhdnilcbddlonlfgdbejfboonn" target="_blank">
         codeblock-beautifier</a>
       </th>
-      <th>一个用于美化网页代码块的 Chrome 插件</th>
+      <th>💅 一个用于美化网页代码块的 Chrome 插件</th>
       <th>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="badge">
@@ -201,12 +195,11 @@
       </th>
     </tr>
     <tr>
-      <th align="center">🎸</th>
       <th>
         <a href="https://github.yanhaixiang.com/guitar-editor/#/" target="_blank">
         guitar-editor</a>
       </th>
-      <th>一个在线吉他谱编辑器</th>
+      <th>🎸 一个在线吉他谱编辑器</th>
       <th>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
         <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&amp;logo=react-router&amp;logoColor=white" alt="badge">
@@ -216,12 +209,11 @@
       </th>
     </tr>
     <tr>
-      <th align="center">🧾</th>
       <th>
         <a href="https://github.yanhaixiang.com/weixin-cash/" target="_blank">
         weixin-cash</a>
       </th>
-      <th>仿微信记账网页版</th>
+      <th>🧾 仿微信记账网页版</th>
       <th>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
@@ -232,12 +224,11 @@
       </th>
     </tr>
     <tr>
-      <th align="center">🎨</th>
       <th>
         <a href="https://github.yanhaixiang.com/sketch-book/" target="_blank">
         sketch-book</a>
       </th>
-      <th>迷你小绘板</th>
+      <th>🎨 迷你小绘板</th>
       <th>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
       </th>
@@ -246,12 +237,11 @@
       </th>
     </tr>
     <tr>
-      <th align="center">🖕</th>
       <th>
         <a href="https://github.yanhaixiang.com/wtf-cli" target="_blank">
         wtf-cli</a>
       </th>
-      <th>一个查询英文简写/缩写的命令行工具</th>
+      <th>🖕 一个查询英文简写/缩写的命令行工具</th>
       <th>
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="badge">
       </th>
@@ -260,12 +250,11 @@
       </th>
     </tr>
     <tr>
-      <th align="center">🧔🏿</th>
       <th>
         <a href="https://marketplace.visualstudio.com/items?itemName=HaixiangYan.tenet" target="_blank">
         tenet</a>
       </th>
-      <th>一个让你可以反着写代码的 VsCode 插件</th>
+      <th>🧔🏿 一个让你可以反着写代码的 VsCode 插件</th>
       <th>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
         <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg?style=flat-square" alt="badge">
@@ -277,12 +266,11 @@
       </th>
     </tr>
     <tr>
-      <th align="center">🍌</th>
       <th>
         <a href="https://github.yanhaixiang.com/banana/" target="_blank">
         banana</a>
       </th>
-      <th>一只可爱的香蕉</th>
+      <th>🍌 一只可爱的香蕉</th>
       <th>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="badge">
       </th>
@@ -290,12 +278,11 @@
       </th>
     </tr>
     <tr>
-      <th align="center">🐱🐶👩</th>
       <th>
         <a href="https://github.yanhaixiang.com/cat-dog-lover/" target="_blank">
         cat-dog-lover</a>
       </th>
-      <th>做只猫做只狗不做情人</th>
+      <th>🐱🐶👩 做只猫做只狗不做情人</th>
       <th>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
       </th>
