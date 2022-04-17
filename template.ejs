@@ -4,16 +4,39 @@
 
 <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="手势"> 我是海怪.</p>
 
-<img src="./images/gongzhonghao.gif" width="50%" alt="公众号">
-
 <h2>📖 文章</h2>
-<ul>
-    <% socials.forEach(function(social){ %>
-    <li>
-        <a target="_blank" href="<%= social.url %>"><%= social.name %></a>
-    </li>
-    <% }); %>
-</ul>
+<table>
+    <tr>
+        <th>公众号</th>
+        <th>知乎</th>
+        <th>掘金</th>
+        <th>简书</th>
+        <th>Medium</th>
+    </tr>
+    <tr>
+        <td><img src="images/gongzhonghao.gif" alt="公众号"></td>
+        <td>
+            <a href="https://www.zhihu.com/people/haixiangyan">
+                <img src="./images/zhihu.png" alt="知乎">
+            </a>
+        </td>
+        <td>
+            <a href="https://juejin.cn/user/272334614432887">
+                <img src="./images/juejin.png" alt="掘金">
+            </a>
+        </td>
+        <td>
+            <a href="https://www.jianshu.com/u/0340be4082b5">
+                <img src="./images/jianshu.png" alt="简书">
+            </a>
+        </td>
+        <td>
+            <a href="https://medium.com/@haixiang6123">
+                <img src="./images/medium.png.png" alt="Medium">
+            </a>
+        </td>
+    </tr>
+</table>
 
 <h2>📚 小书</h2>
 <table>

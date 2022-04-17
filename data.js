@@ -1,11 +1,4 @@
 const data = {
-  socials: [
-    {name: '公众号：【写代码的海怪】', url: './gongzhonghao.gif'},
-    {name: '知乎', url: 'https://www.zhihu.com/people/haixiangyan'},
-    {name: '掘金', url: 'https://juejin.cn/user/272334614432887'},
-    {name: '简书', url: 'https://www.jianshu.com/u/0340be4082b5'},
-    {name: 'Medium', url: 'https://medium.com/@haixiang6123'},
-  ],
   books: [
     {
       logo: '🃏',
