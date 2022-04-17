@@ -1,7 +1,4 @@
-# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
-
-name: Node.js CI
+name: 生成 README
 
 on:
   push:
@@ -24,7 +21,7 @@ jobs:
           node-version: '16.x'
           cache: 'npm'
       - name: 缓存
-        uses: actions/cache@3
+        uses: actions/cache@1
         with:
           path: node_modules
       - name: 安装依赖
