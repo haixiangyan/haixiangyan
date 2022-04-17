@@ -10,7 +10,7 @@ const data = {
     {
       logo: '🐛',
       name: '《坑》',
-      desc: '我在开发过程中遇到的坑',
+      desc: '【连载中...】我在开发过程中遇到的坑',
       url: 'https://github.com/haixiangyan/keng',
       badges: []
     },
