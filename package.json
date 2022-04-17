@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/haixiangyan/haixiangyan#readme",
   "dependencies": {
-    "ejs": "^3.1.6"
+    "ejs": "^3.1.6",
+    "html-prettify": "^1.0.6"
   }
 }

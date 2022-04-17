@@ -1,39 +1,84 @@
-<h2>## 🤩 我</h2>
+<h2>🤩 我</h2>
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
 
-<p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 我是海怪.</p>
+<p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="手势"> 我是海怪.</p>
 
-<img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=haixiangyan&show_icons=true&hide_border=true&theme=vue-dark" />
+<img src="./images/gongzhonghao.gif" width="50%" alt="公众号">
+
+<h2>总览</h2>
+
+<img alt="Github 数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=haixiangyan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="常用开发语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haixiangyan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&" height="192px" />
+
+<img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=haixiangyan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <h2>📖 文章</h2>
 <ul>
-    <% social.forEach(function(socialItem){ %>
+    <% socials.forEach(function(social){ %>
     <li>
-        <a target="_blank" href="<% socialItem.url %>"><% socialItem.name %></a>
+        <a target="_blank" href="<%= social.url %>"><%= social.name %></a>
     </li>
     <% }); %>
 </ul>
 
 <h2>📚 小书</h2>
 <table>
+    <thead align="center">
     <tr>
+        <th>Logo</th>
         <th>书名</th>
         <th>描述</th>
         <th>成就</th>
     </tr>
+    </thead>
 
+    <tbody align="left">
     <% books.forEach(function(book){ %>
-    <tr>
-        <th>
-            <a href="<%= book.url %>" target="_blank"><%= book.name %></a>
-        </th>
-        <th><%= book.desc %></th>
-        <th>
-            <% book.badges.forEach(function(badge){ %>
-            <img src="<%= badge %>" alt="badge">
-            <% }); %>
-        </th>
-    </tr>
+        <tr>
+            <th><%= book.logo %></th>
+            <th>
+                <a href="<%= book.url %>" target="_blank"><%= book.name %></a>
+            </th>
+            <th><%= book.desc %></th>
+            <th>
+                <% book.badges.forEach(function(badge){ %>
+                    <img src="<%= badge %>" alt="badge">
+                <% }); %>
+            </th>
+        </tr>
     <% }); %>
+    </tbody>
+</table>
+
+<h2>💼 项目</h2>
+<table>
+    <thead align="center">
+    <tr>
+        <th>Logo</th>
+        <th>项目</th>
+        <th>简述</th>
+        <th>成就</th>
+        <th>链接</th>
+    </tr>
+    </thead>
+
+    <tbody align="left">
+    <% projects.forEach(function(project){ %>
+        <tr>
+            <th><%= project.logo %></th>
+            <th><%= project.repo %></th>
+            <th><%= project.desc %></th>
+            <th>
+                <% project.badges.forEach(function(badge){ %>
+                    <img src="<%= badge %>" alt="badge">
+                <% }); %>
+            </th>
+            <th>
+                <a href="<%= project.github %>">Github</a>
+                <a href="<%= project.preview %>">预览</a>
+            </th>
+        </tr>
+    <% }); %>
+    </tbody>
 </table>
