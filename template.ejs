@@ -29,7 +29,7 @@
     <tbody align="left">
     <% books.forEach(function(book){ %>
         <tr>
-            <th><%= book.logo %></th>
+            <th align="left"><%= book.logo %></th>
             <th>
                 <a href="<%= book.url %>" target="_blank"><%= book.name %></a>
             </th>
@@ -52,24 +52,23 @@
         <th>项目</th>
         <th>简述</th>
         <th>成就</th>
-        <th>链接</th>
     </tr>
     </thead>
 
     <tbody align="left">
     <% projects.forEach(function(project){ %>
         <tr>
-            <th><%= project.logo %></th>
-            <th><%= project.repo %></th>
+            <th align="left"><%= project.logo %></th>
+            <th>
+                <a href="<%= project.preview || project.github %>">
+                    <%= project.repo %>
+                </a>
+            </th>
             <th><%= project.desc %></th>
             <th>
                 <% project.badges.forEach(function(badge){ %>
                     <img src="<%= badge %>" alt="badge">
                 <% }); %>
-            </th>
-            <th>
-                <a href="<%= project.github %>">Github</a>
-                <a href="<%= project.preview %>">预览</a>
             </th>
         </tr>
     <% }); %>
