@@ -91,7 +91,7 @@ const data = {
       desc: '一个 Nest.js 的练手项目',
       github: 'https://github.com/haixiangyan/nest-todo',
       preview: '',
-      techList: [badges.NestJS],
+      techList: [badges.NestJS, badges.TypeScript],
       badges: ['https://img.shields.io/github/stars/haixiangyan/nest-todo?style=flat-square'],
     },
     {
@@ -170,7 +170,7 @@ const data = {
       desc: '一个让你可以反着写代码的 VsCode 插件',
       github: 'https://github.com/haixiangyan/tenet',
       preview: 'https://marketplace.visualstudio.com/items?itemName=HaixiangYan.tenet',
-      techList: [badges.MadeForVsCode],
+      techList: [badges.JavaScript, badges.MadeForVsCode],
       badges: [
         'https://img.shields.io/github/stars/haixiangyan/tenet?style=flat-square',
         'https://img.shields.io/visual-studio-marketplace/i/HaixiangYan.tenet?style=flat-square',
