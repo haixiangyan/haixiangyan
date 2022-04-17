@@ -4,32 +4,36 @@
 <h2>🙌 社交</h2>
 <table>
   <tr>
-    <th>公众号</th>
+    <th><a href="#" target="_blank">公众号</a></th>
     <th><a href="https://www.zhihu.com/people/haixiangyan" target="_blank">知乎</a></th>
     <th><a href="https://juejin.cn/user/272334614432887" target="_blank">掘金</a></th>
     <th><a href="https://www.jianshu.com/u/0340be4082b5" target="_blank">简书</a></th>
     <th><a href="https://medium.com/@haixiang6123" target="_blank">Medium</a></th>
   </tr>
   <tr>
-    <td><img src="images/utils/gongzhonghao.gif" alt="公众号"></td>
+    <td>
+      <a href="#" target="_blank">
+        <img src="./src/images/utils/gongzhonghao.gif" alt="公众号">
+      </a>
+    </td>
     <td>
       <a href="https://www.zhihu.com/people/haixiangyan" target="_blank">
-        <img src="images/icons/zhihu.png" alt="知乎">
+        <img src="./src/images/utils/zhihu.png" alt="知乎">
       </a>
     </td>
     <td>
       <a href="https://juejin.cn/user/272334614432887" target="_blank">
-        <img src="images/icons/juejin.png" alt="掘金">
+        <img src="./src/images/utils/juejin.png" alt="掘金">
       </a>
     </td>
     <td>
       <a href="https://www.jianshu.com/u/0340be4082b5" target="_blank">
-        <img src="images/icons/jianshu.png" alt="简书">
+        <img src="./src/images/utils/jianshu.png" alt="简书">
       </a>
     </td>
     <td>
       <a href="https://medium.com/@haixiang6123" target="_blank">
-        <img src="images/icons/medium.png" alt="Medium">
+        <img src="./src/images/icons/medium.png" alt="Medium">
       </a>
     </td>
   </tr>
@@ -47,7 +51,7 @@
   <tbody align="left">
     <tr>
       <th align="center">
-        <img width="80" src="./images/covers/jest.jpg" alt="《Jest 前端测试上车之路》">
+        <img width="80" src="./src/images/covers/jest.jpg" alt="《Jest 前端测试上车之路》">
       </th>
       <th>
         <a href="https://github.com/haixiangyan/jest-starter" target="_blank">《Jest 前端测试上车之路》</a>
@@ -58,7 +62,7 @@
     </tr>
     <tr>
       <th align="center">
-        <img width="80" src="./images/covers/keng.jpg" alt="《坑》">
+        <img width="80" src="./src/images/covers/keng.jpg" alt="《坑》">
       </th>
       <th>
         <a href="https://github.com/haixiangyan/keng" target="_blank">《坑》</a>
@@ -69,7 +73,7 @@
     </tr>
     <tr>
       <th align="center">
-        <img width="80" src="./images/covers/linter.jpg" alt="《前端 Linter 上手完全指南》">
+        <img width="80" src="./src/images/covers/linter.jpg" alt="《前端 Linter 上手完全指南》">
       </th>
       <th>
         <a href="https://github.yanhaixiang.com/linter-guide/" target="_blank">《前端 Linter 上手完全指南》</a>
@@ -81,10 +85,10 @@
     </tr>
     <tr>
       <th align="center">
-        <img width="80" src="./images/covers/wecom.jpg" alt="企业微信侧边栏开发指南">
+        <img width="80" src="./src/images/covers/wecom.jpg" alt="《企业微信侧边栏开发指南》">
       </th>
       <th>
-        <a href="https://wecom-sidebar.github.io/" target="_blank">企业微信侧边栏开发指南</a>
+        <a href="https://wecom-sidebar.github.io/" target="_blank">《企业微信侧边栏开发指南》</a>
       </th>
       <th>企业微信侧边栏开发指南以及一系列的开发模板</th>
       <th>
@@ -93,7 +97,7 @@
     </tr>
     <tr>
       <th align="center">
-        <img width="80" src="./images/covers/wheel.jpg" alt="《一起来造轮子》">
+        <img width="80" src="./src/images/covers/wheel.jpg" alt="《一起来造轮子》">
       </th>
       <th>
         <a href="https://github.com/haixiangyan/one-day-one-npm-lib" target="_blank">《一起来造轮子》</a>
@@ -291,6 +295,7 @@
       </th>
       <th>做只猫做只狗不做情人</th>
       <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
       </th>
       <th>
       </th>
