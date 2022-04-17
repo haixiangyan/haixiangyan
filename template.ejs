@@ -14,25 +14,25 @@
         <th><a href="https://medium.com/@haixiang6123" target="_blank">Medium</a></th>
     </tr>
     <tr>
-        <td><img src="images/gongzhonghao.gif" alt="公众号"></td>
+        <td><img src="images/utils/gongzhonghao.gif" alt="公众号"></td>
         <td>
             <a href="https://www.zhihu.com/people/haixiangyan" target="_blank">
-                <img src="./images/zhihu.png" alt="知乎">
+                <img src="images/icons/zhihu.png" alt="知乎">
             </a>
         </td>
         <td>
             <a href="https://juejin.cn/user/272334614432887" target="_blank">
-                <img src="./images/juejin.png" alt="掘金">
+                <img src="images/icons/juejin.png" alt="掘金">
             </a>
         </td>
         <td>
             <a href="https://www.jianshu.com/u/0340be4082b5" target="_blank">
-                <img src="./images/jianshu.png" alt="简书">
+                <img src="images/icons/jianshu.png" alt="简书">
             </a>
         </td>
         <td>
             <a href="https://medium.com/@haixiang6123" target="_blank">
-                <img src="./images/medium.png" alt="Medium">
+                <img src="images/icons/medium.png" alt="Medium">
             </a>
         </td>
     </tr>
@@ -42,7 +42,7 @@
 <table>
     <thead align="center">
     <tr>
-        <th>Logo</th>
+        <th>封面</th>
         <th>书名</th>
         <th>描述</th>
         <th>成就</th>
@@ -52,7 +52,9 @@
     <tbody align="left">
     <% books.forEach(function(book){ %>
         <tr>
-            <th align="center"><%= book.logo %></th>
+            <th align="center">
+                <img src="<%= book.cover %>" alt="<%= book.name %>">
+            </th>
             <th>
                 <a href="<%= book.url %>" target="_blank"><%= book.name %></a>
             </th>

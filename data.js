@@ -5,6 +5,7 @@ const data = {
       name: '《Jest 前端测试上车之路》',
       desc: '【开发中...】前端最全的 Jest 上手指南，一个项目贯穿前端测试的暗坑和测试技巧 ',
       url: 'https://github.com/haixiangyan/jest-starter',
+      cover: './images/covers/jest.jpg',
       badges: []
     },
     {
@@ -12,6 +13,7 @@ const data = {
       name: '《坑》',
       desc: '【连载中...】我在开发过程中遇到的坑',
       url: 'https://github.com/haixiangyan/keng',
+      cover: './images/covers/keng.jpg',
       badges: []
     },
     {
@@ -19,13 +21,24 @@ const data = {
       name: '《前端 Linter 上手完全指南》',
       desc: '前端最全的关于 Linter 的上手小书',
       url: 'https://github.yanhaixiang.com/linter-guide/',
+      cover: './images/covers/linter.jpg',
       badges: ['https://img.shields.io/github/stars/haixiangyan/linter-guide?style=flat-square)']
     },
     {
+      logo: '🏠',
+      repo: 'wecom-sidebar',
+      desc: '企业微信侧边栏开发指南',
+      github: 'https://github.com/wecom-sidebar',
+      preview: 'https://wecom-sidebar.github.io/',
+      cover: './images/covers/wecom.jpg',
+      badges: ['https://img.shields.io/github/stars/wecom-sidebar?style=flat-square'],
+    },
+    {
       logo: '🔥',
-      name: '《一天学习一个 npm 轮子，十天后变成轮子哥》',
+      name: '《一起来造轮子》',
       desc: '前端进阶必看的造轮子小书',
       url: 'https://github.com/haixiangyan/one-day-one-npm-lib',
+      cover: './images/covers/wheel.jpg',
       badges: [
         'https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=flat-square',
         'https://img.shields.io/github/forks/haixiangyan/one-day-one-npm-lib?style=flat-square',
@@ -40,14 +53,6 @@ const data = {
       github: 'https://github.com/haixiangyan/ttplayer',
       preview: 'https://github.yanhaixiang.com/ttplayer/',
       badges: ['https://img.shields.io/github/stars/haixiangyan/ttplayer?style=flat-square'],
-    },
-    {
-      logo: '🏠',
-      repo: 'wecom-sidebar',
-      desc: '企业微信侧边栏开发指南',
-      github: 'https://github.com/wecom-sidebar',
-      preview: 'https://wecom-sidebar.github.io/',
-      badges: ['https://img.shields.io/github/stars/wecom-sidebar?style=flat-square'],
     },
     {
       logo: '🐱',
