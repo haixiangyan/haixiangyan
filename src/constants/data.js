@@ -1,13 +1,42 @@
 const badges = require('./badges');
 
+const imagePrefix = './src/images';
+
 const data = {
+  socials: [
+    {
+      icon: `${imagePrefix}/utils/gongzhonghao.gif`,
+      name: '公众号',
+      url: '#',
+    },
+    {
+      icon: `${imagePrefix}/utils/zhihu.png`,
+      name: '知乎',
+      url: 'https://www.zhihu.com/people/haixiangyan',
+    },
+    {
+      icon: `${imagePrefix}/utils/juejin.png`,
+      name: '掘金',
+      url: 'https://juejin.cn/user/272334614432887',
+    },
+    {
+      icon: `${imagePrefix}/utils/jianshu.png`,
+      name: '简书',
+      url: 'https://www.jianshu.com/u/0340be4082b5',
+    },
+    {
+      icon: `${imagePrefix}/icons/medium.png`,
+      name: 'Medium',
+      url: 'https://medium.com/@haixiang6123',
+    },
+  ],
   books: [
     {
       logo: '🃏',
       name: '《Jest 前端测试上车之路》',
       desc: '【开发中...】前端最全的 Jest 上手指南，一个项目贯穿前端测试的暗坑和测试技巧 ',
       url: 'https://github.com/haixiangyan/jest-starter',
-      cover: './images/covers/jest.jpg',
+      cover: `${imagePrefix}/covers/jest.jpg`,
       badges: []
     },
     {
@@ -15,7 +44,7 @@ const data = {
       name: '《坑》',
       desc: '【连载中...】我在开发过程中遇到的坑',
       url: 'https://github.com/haixiangyan/keng',
-      cover: './images/covers/keng.jpg',
+      cover: `${imagePrefix}/covers/keng.jpg`,
       badges: []
     },
     {
@@ -23,15 +52,15 @@ const data = {
       name: '《前端 Linter 上手完全指南》',
       desc: '前端最全的关于 Linter 的上手小书',
       url: 'https://github.yanhaixiang.com/linter-guide/',
-      cover: './images/covers/linter.jpg',
+      cover: `${imagePrefix}/covers/linter.jpg`,
       badges: ['https://img.shields.io/github/stars/haixiangyan/linter-guide?style=flat-square)']
     },
     {
       logo: '🏠',
-      name: '企业微信侧边栏开发指南',
+      name: '《企业微信侧边栏开发指南》',
       desc: '企业微信侧边栏开发指南以及一系列的开发模板',
       url: 'https://wecom-sidebar.github.io/',
-      cover: './images/covers/wecom.jpg',
+      cover: `${imagePrefix}/covers/wecom.jpg`,
       badges: ['https://img.shields.io/github/stars/wecom-sidebar?style=flat-square'],
     },
     {
@@ -39,7 +68,7 @@ const data = {
       name: '《一起来造轮子》',
       desc: '前端进阶必看的造轮子小书',
       url: 'https://github.com/haixiangyan/one-day-one-npm-lib',
-      cover: './images/covers/wheel.jpg',
+      cover: `${imagePrefix}/covers/wheel.jpg`,
       badges: [
         'https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=flat-square',
         'https://img.shields.io/github/forks/haixiangyan/one-day-one-npm-lib?style=flat-square',
@@ -163,7 +192,7 @@ const data = {
       desc: '做只猫做只狗不做情人',
       github: 'https://github.com/haixiangyan/cat-dog-lover',
       preview: 'https://github.yanhaixiang.com/cat-dog-lover/',
-      techList: [],
+      techList: [badges.JavaScript],
       badges: [],
     },
   ]

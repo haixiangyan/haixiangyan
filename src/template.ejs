@@ -7,34 +7,18 @@
 <h2>🙌 社交</h2>
 <table>
     <tr>
-        <th>公众号</th>
-        <th><a href="https://www.zhihu.com/people/haixiangyan" target="_blank">知乎</a></th>
-        <th><a href="https://juejin.cn/user/272334614432887" target="_blank">掘金</a></th>
-        <th><a href="https://www.jianshu.com/u/0340be4082b5" target="_blank">简书</a></th>
-        <th><a href="https://medium.com/@haixiang6123" target="_blank">Medium</a></th>
+        <% socials.forEach(function(social){ %>
+        <th><a href="<%= social.url %>" target="_blank"><%= social.name %></a></th>
+        <% }); %>
     </tr>
     <tr>
-        <td><img src="images/utils/gongzhonghao.gif" alt="公众号"></td>
+        <% socials.forEach(function(social){ %>
         <td>
-            <a href="https://www.zhihu.com/people/haixiangyan" target="_blank">
-                <img src="images/icons/zhihu.png" alt="知乎">
+            <a href="<%= social.url %>" target="_blank">
+                <img src="<%= social.icon %>" alt="<%= social.name %>">
             </a>
         </td>
-        <td>
-            <a href="https://juejin.cn/user/272334614432887" target="_blank">
-                <img src="images/icons/juejin.png" alt="掘金">
-            </a>
-        </td>
-        <td>
-            <a href="https://www.jianshu.com/u/0340be4082b5" target="_blank">
-                <img src="images/icons/jianshu.png" alt="简书">
-            </a>
-        </td>
-        <td>
-            <a href="https://medium.com/@haixiang6123" target="_blank">
-                <img src="images/icons/medium.png" alt="Medium">
-            </a>
-        </td>
+        <% }); %>
     </tr>
 </table>
 
