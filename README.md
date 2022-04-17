@@ -11,25 +11,25 @@
     <th><a href="https://medium.com/@haixiang6123" target="_blank">Medium</a></th>
   </tr>
   <tr>
-    <td><img src="images/gongzhonghao.gif" alt="公众号"></td>
+    <td><img src="images/utils/gongzhonghao.gif" alt="公众号"></td>
     <td>
       <a href="https://www.zhihu.com/people/haixiangyan" target="_blank">
-        <img src="./images/zhihu.png" alt="知乎">
+        <img src="images/icons/zhihu.png" alt="知乎">
       </a>
     </td>
     <td>
       <a href="https://juejin.cn/user/272334614432887" target="_blank">
-        <img src="./images/juejin.png" alt="掘金">
+        <img src="images/icons/juejin.png" alt="掘金">
       </a>
     </td>
     <td>
       <a href="https://www.jianshu.com/u/0340be4082b5" target="_blank">
-        <img src="./images/jianshu.png" alt="简书">
+        <img src="images/icons/jianshu.png" alt="简书">
       </a>
     </td>
     <td>
       <a href="https://medium.com/@haixiang6123" target="_blank">
-        <img src="./images/medium.png" alt="Medium">
+        <img src="images/icons/medium.png" alt="Medium">
       </a>
     </td>
   </tr>
@@ -38,7 +38,7 @@
 <table>
   <thead align="center">
     <tr>
-      <th>Logo</th>
+      <th>封面</th>
       <th>书名</th>
       <th>描述</th>
       <th>成就</th>
@@ -46,7 +46,9 @@
   </thead>
   <tbody align="left">
     <tr>
-      <th align="center">🃏</th>
+      <th align="center">
+        <img src="./images/covers/jest.jpg" alt="《Jest 前端测试上车之路》">
+      </th>
       <th>
         <a href="https://github.com/haixiangyan/jest-starter" target="_blank">《Jest 前端测试上车之路》</a>
       </th>
@@ -55,7 +57,9 @@
       </th>
     </tr>
     <tr>
-      <th align="center">🐛</th>
+      <th align="center">
+        <img src="./images/covers/keng.jpg" alt="《坑》">
+      </th>
       <th>
         <a href="https://github.com/haixiangyan/keng" target="_blank">《坑》</a>
       </th>
@@ -64,7 +68,9 @@
       </th>
     </tr>
     <tr>
-      <th align="center">👮</th>
+      <th align="center">
+        <img src="./images/covers/linter.jpg" alt="《前端 Linter 上手完全指南》">
+      </th>
       <th>
         <a href="https://github.yanhaixiang.com/linter-guide/" target="_blank">《前端 Linter 上手完全指南》</a>
       </th>
@@ -74,9 +80,23 @@
       </th>
     </tr>
     <tr>
-      <th align="center">🔥</th>
+      <th align="center">
+        <img src="./images/covers/wecom.jpg" alt="">
+      </th>
       <th>
-        <a href="https://github.com/haixiangyan/one-day-one-npm-lib" target="_blank">《一天学习一个 npm 轮子，十天后变成轮子哥》</a>
+        <a href="" target="_blank"></a>
+      </th>
+      <th>企业微信侧边栏开发指南</th>
+      <th>
+        <img src="https://img.shields.io/github/stars/wecom-sidebar?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th align="center">
+        <img src="./images/covers/wheel.jpg" alt="《一起来造轮子》">
+      </th>
+      <th>
+        <a href="https://github.com/haixiangyan/one-day-one-npm-lib" target="_blank">《一起来造轮子》</a>
       </th>
       <th>前端进阶必看的造轮子小书</th>
       <th>
@@ -106,17 +126,6 @@
       <th>千千静听</th>
       <th>
         <img src="https://img.shields.io/github/stars/haixiangyan/ttplayer?style=flat-square" alt="badge">
-      </th>
-    </tr>
-    <tr>
-      <th align="center">🏠</th>
-      <th>
-        <a href="https://wecom-sidebar.github.io/" target="_blank">
-        wecom-sidebar</a>
-      </th>
-      <th>企业微信侧边栏开发指南</th>
-      <th>
-        <img src="https://img.shields.io/github/stars/wecom-sidebar?style=flat-square" alt="badge">
       </th>
     </tr>
     <tr>
