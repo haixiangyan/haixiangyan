@@ -18,17 +18,17 @@
     </td>
     <td>
       <a href="https://www.zhihu.com/people/haixiangyan" target="_blank">
-        <img src="./src/images/utils/zhihu.png" alt="知乎">
+        <img src="./src/images/icons/zhihu.png" alt="知乎">
       </a>
     </td>
     <td>
       <a href="https://juejin.cn/user/272334614432887" target="_blank">
-        <img src="./src/images/utils/juejin.png" alt="掘金">
+        <img src="./src/images/icons/juejin.png" alt="掘金">
       </a>
     </td>
     <td>
       <a href="https://www.jianshu.com/u/0340be4082b5" target="_blank">
-        <img src="./src/images/utils/jianshu.png" alt="简书">
+        <img src="./src/images/icons/jianshu.png" alt="简书">
       </a>
     </td>
     <td>
