@@ -47,7 +47,7 @@
   <tbody align="left">
     <tr>
       <th align="center">
-        <img src="./images/covers/jest.jpg" alt="《Jest 前端测试上车之路》">
+        <img width="80" src="./images/covers/jest.jpg" alt="《Jest 前端测试上车之路》">
       </th>
       <th>
         <a href="https://github.com/haixiangyan/jest-starter" target="_blank">《Jest 前端测试上车之路》</a>
@@ -58,7 +58,7 @@
     </tr>
     <tr>
       <th align="center">
-        <img src="./images/covers/keng.jpg" alt="《坑》">
+        <img width="80" src="./images/covers/keng.jpg" alt="《坑》">
       </th>
       <th>
         <a href="https://github.com/haixiangyan/keng" target="_blank">《坑》</a>
@@ -69,7 +69,7 @@
     </tr>
     <tr>
       <th align="center">
-        <img src="./images/covers/linter.jpg" alt="《前端 Linter 上手完全指南》">
+        <img width="80" src="./images/covers/linter.jpg" alt="《前端 Linter 上手完全指南》">
       </th>
       <th>
         <a href="https://github.yanhaixiang.com/linter-guide/" target="_blank">《前端 Linter 上手完全指南》</a>
@@ -81,7 +81,7 @@
     </tr>
     <tr>
       <th align="center">
-        <img src="./images/covers/wecom.jpg" alt="">
+        <img width="80" src="./images/covers/wecom.jpg" alt="">
       </th>
       <th>
         <a href="" target="_blank"></a>
@@ -93,7 +93,7 @@
     </tr>
     <tr>
       <th align="center">
-        <img src="./images/covers/wheel.jpg" alt="《一起来造轮子》">
+        <img width="80" src="./images/covers/wheel.jpg" alt="《一起来造轮子》">
       </th>
       <th>
         <a href="https://github.com/haixiangyan/one-day-one-npm-lib" target="_blank">《一起来造轮子》</a>
