@@ -81,12 +81,12 @@
     </tr>
     <tr>
       <th align="center">
-        <img width="80" src="./images/covers/wecom.jpg" alt="wecom-sidebar">
+        <img width="80" src="./images/covers/wecom.jpg" alt="企业微信侧边栏开发指南">
       </th>
       <th>
-        <a href="https://wecom-sidebar.github.io/" target="_blank">wecom-sidebar</a>
+        <a href="https://wecom-sidebar.github.io/" target="_blank">企业微信侧边栏开发指南</a>
       </th>
-      <th>企业微信侧边栏开发指南</th>
+      <th>企业微信侧边栏开发指南以及一系列的开发模板</th>
       <th>
         <img src="https://img.shields.io/github/stars/wecom-sidebar?style=flat-square" alt="badge">
       </th>
