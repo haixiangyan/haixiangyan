@@ -40,7 +40,7 @@
     <tr>
       <th>封面</th>
       <th>书名</th>
-      <th>描述</th>
+      <th>简述</th>
       <th>成就</th>
     </tr>
   </thead>
@@ -113,6 +113,7 @@
       <th>Logo</th>
       <th>项目</th>
       <th>简述</th>
+      <th>技术</th>
       <th>成就</th>
     </tr>
   </thead>
@@ -125,6 +126,9 @@
       </th>
       <th>千千静听</th>
       <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="badge">
+      </th>
+      <th>
         <img src="https://img.shields.io/github/stars/haixiangyan/ttplayer?style=flat-square" alt="badge">
       </th>
     </tr>
@@ -135,6 +139,9 @@
         nest-todo</a>
       </th>
       <th>一个 Nest.js 的练手项目</th>
+      <th>
+        <img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="badge">
+      </th>
       <th>
         <img src="https://img.shields.io/github/stars/haixiangyan/nest-todo?style=flat-square" alt="badge">
       </th>
@@ -147,6 +154,11 @@
       </th>
       <th>个人主页</th>
       <th>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
         <img src="https://img.shields.io/github/stars/haixiangyan/me?style=flat-square" alt="badge">
       </th>
     </tr>
@@ -157,6 +169,10 @@
         overwatch-ui</a>
       </th>
       <th>守望先锋 UI 库</th>
+      <th>
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt="badge">
+      </th>
       <th>
         <img src="https://img.shields.io/github/stars/haixiangyan/overwatch-ui?style=flat-square" alt="badge">
         <img src="https://img.shields.io/npm/dm/overwatch-ui?style=flat-square" alt="badge">
@@ -169,6 +185,10 @@
         codeblock-beautifier</a>
       </th>
       <th>一个用于美化网页代码块的 Chrome 插件</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="badge">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="badge">
+      </th>
       <th>
         <img src="https://img.shields.io/github/stars/Haixiang6123/codeblock-beautifier?style=flat-square" alt="badge">
         <img src="https://img.shields.io/github/stars/haixiangyan/codeblock-beautifier?style=flat-square" alt="badge">
@@ -183,6 +203,10 @@
       </th>
       <th>一个在线吉他谱编辑器</th>
       <th>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
         <img src="https://img.shields.io/github/stars/haixiangyan/guitar-editor?style=flat-square" alt="badge">
       </th>
     </tr>
@@ -193,6 +217,11 @@
         weixin-cash</a>
       </th>
       <th>仿微信记账网页版</th>
+      <th>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&amp;logo=styled-components&amp;logoColor=white" alt="badge">
+      </th>
       <th>
         <img src="https://img.shields.io/github/stars/haixiangyan/weixin-cash?style=flat-square" alt="badge">
       </th>
@@ -205,6 +234,9 @@
       </th>
       <th>迷你小绘板</th>
       <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="badge">
+      </th>
+      <th>
         <img src="https://img.shields.io/github/stars/haixiangyan/sketch-book?style=flat-square" alt="badge">
       </th>
     </tr>
@@ -216,6 +248,9 @@
       </th>
       <th>一个查询英文简写/缩写的命令行工具</th>
       <th>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
         <img src="https://img.shields.io/github/stars/haixiangyan/wtf-cli?style=flat-square" alt="badge">
       </th>
     </tr>
@@ -226,6 +261,9 @@
         tenet</a>
       </th>
       <th>一个让你可以反着写代码的 VsCode 插件</th>
+      <th>
+        <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" alt="badge">
+      </th>
       <th>
         <img src="https://img.shields.io/github/stars/haixiangyan/tenet?style=flat-square" alt="badge">
         <img src="https://img.shields.io/visual-studio-marketplace/i/HaixiangYan.tenet?style=flat-square" alt="badge">
@@ -240,6 +278,9 @@
       </th>
       <th>一只可爱的香蕉</th>
       <th>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
       </th>
     </tr>
     <tr>
@@ -249,6 +290,8 @@
         cat-dog-lover</a>
       </th>
       <th>做只猫做只狗不做情人</th>
+      <th>
+      </th>
       <th>
       </th>
     </tr>
