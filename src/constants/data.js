@@ -10,17 +10,17 @@ const data = {
       url: '#',
     },
     {
-      icon: `${imagePrefix}/utils/zhihu.png`,
+      icon: `${imagePrefix}/icons/zhihu.png`,
       name: '知乎',
       url: 'https://www.zhihu.com/people/haixiangyan',
     },
     {
-      icon: `${imagePrefix}/utils/juejin.png`,
+      icon: `${imagePrefix}/icons/juejin.png`,
       name: '掘金',
       url: 'https://juejin.cn/user/272334614432887',
     },
     {
-      icon: `${imagePrefix}/utils/jianshu.png`,
+      icon: `${imagePrefix}/icons/jianshu.png`,
       name: '简书',
       url: 'https://www.jianshu.com/u/0340be4082b5',
     },
