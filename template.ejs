@@ -52,7 +52,7 @@
     <tbody align="left">
     <% books.forEach(function(book){ %>
         <tr>
-            <th align="left"><%= book.logo %></th>
+            <th align="center"><%= book.logo %></th>
             <th>
                 <a href="<%= book.url %>" target="_blank"><%= book.name %></a>
             </th>
@@ -81,7 +81,7 @@
     <tbody align="left">
     <% projects.forEach(function(project){ %>
         <tr>
-            <th align="left"><%= project.logo %></th>
+            <th align="center"><%= project.logo %></th>
             <th>
                 <a href="<%= project.preview || project.github %>">
                     <%= project.repo %>
