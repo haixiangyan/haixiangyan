@@ -81,10 +81,10 @@
     </tr>
     <tr>
       <th align="center">
-        <img width="80" src="./images/covers/wecom.jpg" alt="">
+        <img width="80" src="./images/covers/wecom.jpg" alt="wecom-sidebar">
       </th>
       <th>
-        <a href="" target="_blank"></a>
+        <a href="https://wecom-sidebar.github.io/" target="_blank">wecom-sidebar</a>
       </th>
       <th>企业微信侧边栏开发指南</th>
       <th>
