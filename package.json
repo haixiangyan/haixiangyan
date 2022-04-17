@@ -4,6 +4,7 @@
   "description": "<img style=\"width: 50%\" align=\"right\" src=\"https://github-readme-stats.vercel.app/api?username=haixiangyan&show_icons=true&hide_border=true&theme=vue-dark\" />",
   "main": "index.js",
   "scripts": {
+    "build": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
