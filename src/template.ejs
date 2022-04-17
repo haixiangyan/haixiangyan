@@ -57,7 +57,6 @@
 <table>
     <thead align="center">
     <tr>
-        <th>Logo</th>
         <th>项目</th>
         <th>简述</th>
         <th>技术</th>
@@ -68,13 +67,12 @@
     <tbody align="left">
     <% projects.forEach(function(project){ %>
         <tr>
-            <th align="center"><%= project.logo %></th>
             <th>
                 <a href="<%= project.preview || project.github %>" target="_blank">
                     <%= project.repo %>
                 </a>
             </th>
-            <th><%= project.desc %></th>
+            <th><%= project.logo %> <%= project.desc %></th>
             <th>
                 <% project.techList.forEach(function(tech){ %>
                     <img src="<%= tech %>" alt="badge">

@@ -53,7 +53,7 @@ const data = {
       desc: '前端最全的关于 Linter 的上手小书',
       url: 'https://github.yanhaixiang.com/linter-guide/',
       cover: `${imagePrefix}/covers/linter.jpg`,
-      badges: ['https://img.shields.io/github/stars/haixiangyan/linter-guide?style=flat-square)']
+      badges: ['https://img.shields.io/github/stars/haixiangyan/linter-guide?style=flat-square']
     },
     {
       logo: '🏠',
