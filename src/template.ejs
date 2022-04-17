@@ -44,13 +44,13 @@
     <tr>
         <th>封面</th>
         <th>书名</th>
-        <th>描述</th>
+        <th>简述</th>
         <th>成就</th>
     </tr>
     </thead>
 
     <tbody align="left">
-    <% books.forEach(function(book){ %>
+        <% books.forEach(function(book){ %>
         <tr>
             <th align="center">
                 <img width="80" src="<%= book.cover %>" alt="<%= book.name %>">
@@ -65,7 +65,7 @@
                 <% }); %>
             </th>
         </tr>
-    <% }); %>
+        <% }); %>
     </tbody>
 </table>
 
@@ -76,6 +76,7 @@
         <th>Logo</th>
         <th>项目</th>
         <th>简述</th>
+        <th>技术</th>
         <th>成就</th>
     </tr>
     </thead>
@@ -90,6 +91,11 @@
                 </a>
             </th>
             <th><%= project.desc %></th>
+            <th>
+                <% project.techList.forEach(function(tech){ %>
+                    <img src="<%= tech %>" alt="badge">
+                <% }); %>
+            </th>
             <th>
                 <% project.badges.forEach(function(badge){ %>
                     <img src="<%= badge %>" alt="badge">
