@@ -21,14 +21,14 @@ jobs:
           node-version: '16.x'
           cache: 'npm'
       - name: 缓存
-        uses: actions/cache@1
+        uses: actions/cache@3
         with:
           path: node_modules
       - name: 安装依赖
         run: npm install
       - name: 生成 README.md
         run: npm run build --if-present
-     - name: 推送新 README.md
-       uses: mikeal/publish-to-github-action@master
-       env:
-         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 推送新 README.md
+        uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
