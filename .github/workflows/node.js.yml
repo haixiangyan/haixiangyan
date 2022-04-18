@@ -5,8 +5,9 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
-#  schedule:
-#    - cron: '0 */3 * * *'
+  schedule:
+    # 每 6 点半触发一次
+    - cron: '0 30 6 * *'
 
 jobs:
   build:
