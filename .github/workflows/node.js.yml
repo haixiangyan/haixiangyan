@@ -7,7 +7,7 @@ on:
     branches: [ master ]
   schedule:
     # 每 6 点半触发一次
-    - cron: '0 30 6 * * ?'
+    - cron: '30 6 * * *'
 
 jobs:
   build:
