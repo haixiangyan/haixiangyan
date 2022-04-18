@@ -1,8 +1,10 @@
 const axios = require("axios");
 const baseURL = 'https://qqlykm.cn/api/api/tq.php';
 
+// 获取当前天气
 const getWeather = async (city) => {
   const res = await axios.request({
+    method: 'GET',
     baseURL,
     params: { city }
   })
@@ -22,7 +24,7 @@ const getWeather = async (city) => {
 
   const month = (new Date()).getMonth() + 1;
 
-  return `今天是${month}月${todayInfo.date}，温度：${todayInfo.high} - ${todayInfo.low}，${todayInfo.type}`;
+  return `目前坐标在${city}。今天${month}月${todayInfo.date}，温度：${todayInfo.high} - ${todayInfo.low}，${todayInfo.type}。希望你有一天好心情 ❤️`;
 }
 
 module.exports = getWeather;

@@ -1,7 +1,8 @@
 <h2>🤩 我</h2>
 <img src="https://visitor-badge.glitch.me/badge?page_id=haixiangyan" alt="visitor badge" />
-<blockquote>今天是4月18日星期一，温度：高温 22℃ - 低温 17℃，阴</blockquote>
 <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="手势"> 我是海怪.</p>
+<p>目前在深圳，今天4月18日星期一，温度：高温 22℃ - 低温 17℃，阴，希望你有一天好心情 ❤️</p>
+<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.SquareTowerHouse_EN-US5990660612_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
 <h2>🙌 社交</h2>
 <p>经常在各大平台出没 👻，可以搜索我的全网账号<b>【写代码的海怪】</b>找到我。每周定期更新一篇博文，关注我，一起开心写代码，快乐学编程 💪！</p>
 <table>
