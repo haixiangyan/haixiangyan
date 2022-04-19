@@ -20,6 +20,7 @@
   "homepage": "https://github.com/haixiangyan/haixiangyan#readme",
   "dependencies": {
     "axios": "^0.26.1",
+    "dayjs": "^1.11.1",
     "dotenv": "^16.0.0",
     "ejs": "^3.1.6",
     "html-prettify": "^1.0.6"

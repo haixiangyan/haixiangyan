@@ -1,3 +1,5 @@
+<blockquote>最后更新：<%= updatedAt %></blockquote>
+
 <h2>🤩 我</h2>
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=haixiangyan" alt="visitor badge"/>
@@ -11,8 +13,6 @@
     <%= getStateCNName(weather.consolidated_weather[0].weather_state_abbr) %>
     <img width="32" src="<%= getIconUrl(weather.consolidated_weather[0].weather_state_abbr) %>" alt="天气">。
 </p>
-
-<small><i>更新时间：<%= weather.consolidated_weather[0].applicable_date %></i></small>
 
 <img width="100%" align="center" src="<%= background %>" alt="background">
 
