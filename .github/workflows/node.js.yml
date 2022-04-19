@@ -29,6 +29,8 @@ jobs:
       - name: 安装依赖
         run: npm install
       - name: 生成 README.md
+        env:
+          M3O_TOKEN: ${{ secrets.M3O_TOKEN }}
         run: npm run build --if-present
       - name: 推送新 README.md
         uses: mikeal/publish-to-github-action@master
