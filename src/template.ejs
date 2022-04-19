@@ -1,8 +1,8 @@
 <blockquote>最后更新：<%= updatedAt %></blockquote>
 
 <blockquote>
-    坐标深圳，今天温度最高 <%= weather.consolidated_weather[0].min_temp %> 度，
-    最低 <%= weather.consolidated_weather[0].max_temp %> 度，
+    坐标深圳，今天温度最低 <%= weather.consolidated_weather[0].min_temp %> 度，
+    最高 <%= weather.consolidated_weather[0].max_temp %> 度，
     <%= getStateCNName(weather.consolidated_weather[0].weather_state_abbr) %>
     <img width="32" src="<%= getIconUrl(weather.consolidated_weather[0].weather_state_abbr) %>" alt="天气">。
 </blockquote>
