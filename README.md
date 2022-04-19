@@ -3,8 +3,8 @@
 <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="手势"> 我是海怪.</p>
 <p>
 目前我在深圳 (22.546789,114.112556)。 今天深圳温度最高 17.9 度， 最低 19.965 度， 小雨 <img width="32" src="https://www.metaweather.com/static/img/weather/lr.svg" alt="天气">。</p>
-<blockquote>更新时间：2022-04-19</blockquote>
-<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.SquareTowerHouse_ROW9195175527_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
+<small><i>更新时间：2022-04-19</i></small>
+<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.SquareTowerHouse_EN-US5990660612_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
 <h2>🙌 社交</h2>
 <p>经常在各大平台出没 👻，可以搜索我的全网账号<b>【写代码的海怪】</b>找到我。每周定期更新一篇博文，关注我，一起开心写代码，快乐学编程 💪！</p>
 <table>
