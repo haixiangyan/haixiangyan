@@ -1,18 +1,17 @@
 <blockquote>最后更新：<%= updatedAt %></blockquote>
 
+<blockquote>
+    坐标深圳，今天温度最高 <%= weather.consolidated_weather[0].min_temp %> 度，
+    最低 <%= weather.consolidated_weather[0].max_temp %> 度，
+    <%= getStateCNName(weather.consolidated_weather[0].weather_state_abbr) %>
+    <img width="32" src="<%= getIconUrl(weather.consolidated_weather[0].weather_state_abbr) %>" alt="天气">。
+</blockquote>
+
 <h2>🤩 我</h2>
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=haixiangyan" alt="visitor badge"/>
 
 <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="手势"> 我是海怪.</p>
-
-<p>
-    目前我在深圳 (<%= weather.latt_long %>)。
-    今天深圳温度最高 <%= weather.consolidated_weather[0].min_temp %> 度，
-    最低 <%= weather.consolidated_weather[0].max_temp %> 度，
-    <%= getStateCNName(weather.consolidated_weather[0].weather_state_abbr) %>
-    <img width="32" src="<%= getIconUrl(weather.consolidated_weather[0].weather_state_abbr) %>" alt="天气">。
-</p>
 
 <img width="100%" align="center" src="<%= background %>" alt="background">
 
