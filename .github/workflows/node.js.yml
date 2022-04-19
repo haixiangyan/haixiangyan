@@ -17,9 +17,9 @@ jobs:
       - name: 设置时区
         uses: szenius/set-timezone@v1.0
         with:
-          timezoneLinux: 'Asia/Beijing'
-          timezoneMacos: "Asia/Beijing"
-          timezoneWindows: "Asia/Beijing"
+          timezoneLinux: 'Asia/Shanghai'
+          timezoneMacos: "Asia/Shanghai"
+          timezoneWindows: "Asia/Shanghai"
       - name: Checkout
         uses: actions/checkout@v3
       - name: 环境配置
