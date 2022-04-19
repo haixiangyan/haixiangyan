@@ -3,6 +3,8 @@ const baseURL = 'https://api.m3o.com/v1/weather/Now';
 
 // 获取当前天气
 const getWeather = async (location) => {
+  console.log('token', process.env.M3O_TOKEN.slice(1, 3));
+
   const res = await axios.request({
     method: 'GET',
     baseURL,
