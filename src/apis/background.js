@@ -1,7 +1,7 @@
 const axios = require("axios");
 
 const bingUrl = 'https://www.bing.com'
-const baseURL = 'https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US';
+const baseURL = 'https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1';
 
 const getBackground = async () => {
   const res = await axios.request({
