@@ -4,7 +4,13 @@
 
 <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="手势"> 我是海怪.</p>
 
-<p><%= weatherStr %></p>
+<p>
+    目前我在深圳 (<%= weather.latitude %>, <%= weather.longitude %>)。
+    今天深圳体感温度 <%= weather.feels_like_c %> 摄氏度，湿度 <%= weather.humidity %>。
+    <img src="https:<%= weather.icon_url %>" alt="天气">
+</p>
+
+<blockquote>更新时间：<%= weather.local_time %></blockquote>
 
 <img width="100%" align="center" src="<%= background %>" alt="background">
 

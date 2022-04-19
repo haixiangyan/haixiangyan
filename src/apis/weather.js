@@ -1,30 +1,43 @@
 const axios = require("axios");
-const baseURL = 'https://qqlykm.cn/api/api/tq.php';
+const baseURL = 'https://api.m3o.com/v1/weather/Now';
 
 // 获取当前天气
-const getWeather = async (city) => {
+const getWeather = async (location) => {
   const res = await axios.request({
     method: 'GET',
     baseURL,
-    params: { city }
+    params: { location },
+    headers: {
+      Authorization: `Bearer ${process.env.M3O_TOKEN}`
+    }
   })
 
-  const [todayInfo] = res.data.data.forecast;
-
   // {
-  //   "date": "18日星期一",
-  //   "high": "高温 18℃",
-  //   "fengli": "",
-  //   "low": "低温 16℃",
-  //   "fengxiang": "北风",
-  //   "type": "小雨"
-  // },
+  //   "location": "Shenzhen",
+  //   "region": "Guangdong",
+  //   "country": "China",
+  //   "latitude": 22.53,
+  //   "longitude": 114.13,
+  //   "timezone": "Asia/Hong_Kong",
+  //   "local_time": "2022-04-19 10:46",
+  //   "temp_c": 17,
+  //   "temp_f": 62.6,
+  //   "feels_like_c": 17,
+  //   "feels_like_f": 62.6,
+  //   "humidity": 88,
+  //   "cloud": 100,
+  //   "daytime": true,
+  //   "condition": "Overcast",
+  //   "icon_url": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+  //   "wind_mph": 11.9,
+  //   "wind_kph": 19.1,
+  //   "wind_direction": "N",
+  //   "wind_degree": 10
+  // }
 
-  console.log('weather', todayInfo);
+  console.log('weather res', res.data);
 
-  const month = (new Date()).getMonth() + 1;
-
-  return `目前坐标在${city}。今天${month}月${todayInfo.date}，温度：${todayInfo.high} - ${todayInfo.low}，${todayInfo.type}。希望你有一天好心情 ❤️`;
+  return res.data;
 }
 
 module.exports = getWeather;

@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const fs = require('fs');
 const ejs = require('ejs');
 const path = require('path');
@@ -13,14 +15,14 @@ const outputPath = path.join(__dirname, '../README.md');
 const main = async () => {
   const tplStr = fs.readFileSync(tplPath, 'utf8');
 
-  const [weatherStr, background] = await Promise.all([
-    getWeather('深圳'),
+  const [weather, background] = await Promise.all([
+    getWeather('ShenZhen'),
     getBackground(),
   ]);
 
   const html = ejs.render(tplStr, {
     ...data,
-    weatherStr,
+    weather,
     background
   });
 
