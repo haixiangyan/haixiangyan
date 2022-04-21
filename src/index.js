@@ -14,7 +14,7 @@ const tplPath = path.join(__dirname, './template.ejs');
 const outputPath = path.join(__dirname, '../README.md');
 
 const main = async () => {
-  const updatedAt = dayjs().format('YYYY/MM/DD HH:mm')
+  const updatedAt = dayjs().format('YYYY年MM月DD日 HH时mm分')
 
   const tplStr = fs.readFileSync(tplPath, 'utf8');
 
