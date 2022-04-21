@@ -1,5 +1,5 @@
 <h2>☀️ 今天</h2>
-<blockquote>最后更新于 2022/04/21 20:06（每天早上 6:30 自动更新）</blockquote>
+<blockquote>最后更新于 2022年04月21日 20时08分（每天早上 6:30 自动更新）</blockquote>
 <p>
 坐标深圳，今天最低温度 20.75 度， 最高 27.405 度， 多云 <img width="32" src="https://www.metaweather.com/static/img/weather/hc.svg" alt="天气">。</p>
 <p>每日一图：</p>
