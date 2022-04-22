@@ -1,7 +1,7 @@
 <h2>☀️ 今天</h2>
-<blockquote>最后更新于 2022年04月22日 17时48分（每天早上 6:30 自动更新）</blockquote>
+<blockquote>最后更新于 2022年04月23日 06时39分（每天早上 6:30 自动更新）</blockquote>
 <p>
-坐标深圳，今天最低温度 22.59 度， 最高 28.47 度， 阵雨 <img width="32" src="https://www.metaweather.com/static/img/weather/s.svg" alt="天气">。</p>
+坐标深圳，今天最低温度 23.285 度， 最高 29.285 度， 阵雨 <img width="32" src="https://www.metaweather.com/static/img/weather/s.svg" alt="天气">。</p>
 <p>每日一图：</p>
 <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.EarthDay2022_EN-US1806321261_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
 <h2>🤩 我</h2>
