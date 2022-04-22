@@ -1,7 +1,7 @@
 <h2>☀️ 今天</h2>
-<blockquote>最后更新于 2022年04月22日 06时39分（每天早上 6:30 自动更新）</blockquote>
+<blockquote>最后更新于 2022年04月22日 12时37分（每天早上 6:30 自动更新）</blockquote>
 <p>
-坐标深圳，今天最低温度 22.535 度， 最高 28.22 度， 多云 <img width="32" src="https://www.metaweather.com/static/img/weather/hc.svg" alt="天气">。</p>
+坐标深圳，今天最低温度 22.89 度， 最高 28.845 度， 多云 <img width="32" src="https://www.metaweather.com/static/img/weather/hc.svg" alt="天气">。</p>
 <p>每日一图：</p>
 <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.IcelandicSummer_EN-US6680616324_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
 <h2>🤩 我</h2>
@@ -60,10 +60,10 @@
   <tbody align="left">
     <tr>
       <th align="center">
-        <img width="80" src="./src/images/covers/jest.jpg" alt="《Jest 前端测试上车之路》">
+        <img width="80" src="./src/images/covers/jest.jpg" alt="《Jest 上车速通之路》">
       </th>
       <th>
-        <a href="https://github.com/haixiangyan/jest-starter" target="_blank">《Jest 前端测试上车之路》</a>
+        <a href="https://github.com/haixiangyan/jest-tutorial" target="_blank">《Jest 上车速通之路》</a>
       </th>
       <th>【开发中...】前端最全的 Jest 上手指南，一个项目贯穿前端测试的暗坑和测试技巧 </th>
       <th>
@@ -85,11 +85,11 @@
         <img width="80" src="./src/images/covers/linter.jpg" alt="《前端 Linter 上手完全指南》">
       </th>
       <th>
-        <a href="https://github.yanhaixiang.com/linter-guide/" target="_blank">《前端 Linter 上手完全指南》</a>
+        <a href="https://github.yanhaixiang.com/linter-tutorial/" target="_blank">《前端 Linter 上手完全指南》</a>
       </th>
       <th>前端最全的关于 Linter 的上手小书</th>
       <th>
-        <img src="https://img.shields.io/github/stars/haixiangyan/linter-guide?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/stars/haixiangyan/linter-tutorial?style=flat-square" alt="badge">
       </th>
     </tr>
     <tr>
@@ -109,12 +109,12 @@
         <img width="80" src="./src/images/covers/wheel.jpg" alt="《一起来造轮子》">
       </th>
       <th>
-        <a href="https://github.com/haixiangyan/one-day-one-npm-lib" target="_blank">《一起来造轮子》</a>
+        <a href="https://github.com/haixiangyan/make-wheels" target="_blank">《一起来造轮子》</a>
       </th>
       <th>前端进阶必看的造轮子小书</th>
       <th>
-        <img src="https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=flat-square" alt="badge">
-        <img src="https://img.shields.io/github/forks/haixiangyan/one-day-one-npm-lib?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/stars/Haixiang6123/make-wheels?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/haixiangyan/make-wheels?style=flat-square" alt="badge">
       </th>
     </tr>
   </tbody>
@@ -206,8 +206,8 @@
     </tr>
     <tr>
       <th>
-        <a href="https://github.yanhaixiang.com/guitar-editor/#/" target="_blank">
-        guitar-editor</a>
+        <a href="https://github.yanhaixiang.com/guitar-tabs-editor/#/" target="_blank">
+        guitar-tabs-editor</a>
       </th>
       <th>🎸 一个在线吉他谱编辑器</th>
       <th>
@@ -215,7 +215,7 @@
         <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&amp;logo=react-router&amp;logoColor=white" alt="badge">
       </th>
       <th>
-        <img src="https://img.shields.io/github/stars/haixiangyan/guitar-editor?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/stars/haixiangyan/guitar-tabs-editor?style=flat-square" alt="badge">
       </th>
     </tr>
     <tr>
