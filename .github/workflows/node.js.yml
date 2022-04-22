@@ -6,8 +6,9 @@ on:
   pull_request:
     branches: [ master ]
   schedule:
-    # 每 6 点半触发一次
-    - cron: '30 6 * * *'
+    # UTC + 8 = 中国时区
+    # 22:30 + 8 = 6:30（明天） 每 6 点半触发一次
+    - cron: '30 22 * * *'
 
 jobs:
   build:

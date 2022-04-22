@@ -1,10 +1,13 @@
-<blockquote>最后更新：2022/04/19 18:25</blockquote>
-<blockquote>
-坐标深圳，今天温度最高 17.9 度， 最低 19.965 度， 小雨 <img width="32" src="https://www.metaweather.com/static/img/weather/lr.svg" alt="天气">。</blockquote>
+<h2>☀️ 今天</h2>
+<blockquote>最后更新于 2022年04月22日 06时39分（每天早上 6:30 自动更新）</blockquote>
+<p>
+坐标深圳，今天最低温度 22.535 度， 最高 28.22 度， 多云 <img width="32" src="https://www.metaweather.com/static/img/weather/hc.svg" alt="天气">。</p>
+<p>每日一图：</p>
+<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.IcelandicSummer_EN-US6680616324_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
 <h2>🤩 我</h2>
 <img src="https://visitor-badge.glitch.me/badge?page_id=haixiangyan" alt="visitor badge" />
+<img src="https://github.com/haixiangyan/haixiangyan/actions/workflows/node.js.yml/badge.svg" alt="build badge" />
 <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="手势"> 我是海怪.</p>
-<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.PlitviceBoardwalk_EN-US6264296543_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
 <h2>🙌 社交</h2>
 <p>经常在各大平台出没 👻，可以搜索我的全网账号<b>【写代码的海怪】</b>找到我。每周定期更新一篇博文，关注我，一起开心写代码，快乐学编程 💪！</p>
 <table>
