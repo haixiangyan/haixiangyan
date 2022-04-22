@@ -70,7 +70,7 @@ const data = {
       url: 'https://github.com/haixiangyan/make-wheels',
       cover: `${imagePrefix}/covers/wheel.jpg`,
       badges: [
-        'https://img.shields.io/github/stars/Haixiang6123/make-wheels?style=flat-square',
+        'https://img.shields.io/github/stars/haixiangyan/make-wheels?style=flat-square',
         'https://img.shields.io/github/forks/haixiangyan/make-wheels?style=flat-square',
       ]
     },
