@@ -1,10 +1,29 @@
+<h2>☀️ 今天</h2>
+
+<blockquote>最后更新于 <%= updatedAt %>（每天早上 6:30 自动更新）</blockquote>
+
+<p>
+    坐标深圳，今天最低温度 <%= weather.consolidated_weather[0].min_temp %> 度，
+    最高 <%= weather.consolidated_weather[0].max_temp %> 度，
+    <%= getStateCNName(weather.consolidated_weather[0].weather_state_abbr) %>
+    <img width="32" src="<%= getIconUrl(weather.consolidated_weather[0].weather_state_abbr) %>" alt="天气">。
+</p>
+
+<p>每日一图：</p>
+
+<img width="100%" align="center" src="<%= background %>" alt="background">
+
 <h2>🤩 我</h2>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=haixiangyan" alt="visitor badge"/>
+<img src="https://github.com/haixiangyan/haixiangyan/actions/workflows/node.js.yml/badge.svg" alt="build badge"/>
 
 <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="手势"> 我是海怪.</p>
 
 <h2>🙌 社交</h2>
+
+<p>经常在各大平台出没 👻，可以搜索我的全网账号<b>【写代码的海怪】</b>找到我。每周定期更新一篇博文，关注我，一起开心写代码，快乐学编程 💪！</p>
+
 <table>
     <tr>
         <% socials.forEach(function(social){ %>
@@ -23,6 +42,9 @@
 </table>
 
 <h2>📚 小书</h2>
+
+<p>当一篇博文讲得东西非常多，或者内容非常长的时候，我就会把它变成一本在线小书。所在小书皆可免费食用 🍝、无限转载 📣，唯一要求是转载时加上【写代码的海怪】作者出处即可。</p>
+
 <table>
     <thead align="center">
     <tr>
@@ -54,6 +76,9 @@
 </table>
 
 <h2>💼 项目</h2>
+
+<p>下面是我在学前端的路上写的一些个人项目，有的比较认真 🧐，有的只是为了好玩 🎮，有的比较沙雕 🤪。</p>
+
 <table>
     <thead align="center">
     <tr>
@@ -93,6 +118,8 @@
 </table>
 
 <h2>总览</h2>
+
+<p>Github 时常会更新不少新东西和好玩的项目哦~</p>
 
 <h3>数据统计</h3>
 <a href="https://github.com/haixiangyan" target="_blank">

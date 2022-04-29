@@ -1,7 +1,15 @@
+<h2>☀️ 今天</h2>
+<blockquote>最后更新于 2022年04月29日 06时39分（每天早上 6:30 自动更新）</blockquote>
+<p>
+坐标深圳，今天最低温度 25.04 度， 最高 32.075 度， 阵雨 <img width="32" src="https://www.metaweather.com/static/img/weather/s.svg" alt="天气">。</p>
+<p>每日一图：</p>
+<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.FoxSkills_EN-US2404818455_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
 <h2>🤩 我</h2>
-<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=haixiangyan" alt="visitor badge" />
+<img src="https://github.com/haixiangyan/haixiangyan/actions/workflows/node.js.yml/badge.svg" alt="build badge" />
 <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="手势"> 我是海怪.</p>
 <h2>🙌 社交</h2>
+<p>经常在各大平台出没 👻，可以搜索我的全网账号<b>【写代码的海怪】</b>找到我。每周定期更新一篇博文，关注我，一起开心写代码，快乐学编程 💪！</p>
 <table>
   <tr>
     <th><a href="#" target="_blank">公众号</a></th>
@@ -39,6 +47,7 @@
   </tr>
 </table>
 <h2>📚 小书</h2>
+<p>当一篇博文讲得东西非常多，或者内容非常长的时候，我就会把它变成一本在线小书。所在小书皆可免费食用 🍝、无限转载 📣，唯一要求是转载时加上【写代码的海怪】作者出处即可。</p>
 <table>
   <thead align="center">
     <tr>
@@ -51,10 +60,10 @@
   <tbody align="left">
     <tr>
       <th align="center">
-        <img width="80" src="./src/images/covers/jest.jpg" alt="《Jest 前端测试上车之路》">
+        <img width="80" src="./src/images/covers/jest.jpg" alt="《Jest 上车速通之路》">
       </th>
       <th>
-        <a href="https://github.com/haixiangyan/jest-starter" target="_blank">《Jest 前端测试上车之路》</a>
+        <a href="https://github.com/haixiangyan/jest-tutorial" target="_blank">《Jest 上车速通之路》</a>
       </th>
       <th>【开发中...】前端最全的 Jest 上手指南，一个项目贯穿前端测试的暗坑和测试技巧 </th>
       <th>
@@ -76,11 +85,11 @@
         <img width="80" src="./src/images/covers/linter.jpg" alt="《前端 Linter 上手完全指南》">
       </th>
       <th>
-        <a href="https://github.yanhaixiang.com/linter-guide/" target="_blank">《前端 Linter 上手完全指南》</a>
+        <a href="https://github.yanhaixiang.com/linter-tutorial/" target="_blank">《前端 Linter 上手完全指南》</a>
       </th>
       <th>前端最全的关于 Linter 的上手小书</th>
       <th>
-        <img src="https://img.shields.io/github/stars/haixiangyan/linter-guide?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/stars/haixiangyan/linter-tutorial?style=flat-square" alt="badge">
       </th>
     </tr>
     <tr>
@@ -100,17 +109,18 @@
         <img width="80" src="./src/images/covers/wheel.jpg" alt="《一起来造轮子》">
       </th>
       <th>
-        <a href="https://github.com/haixiangyan/one-day-one-npm-lib" target="_blank">《一起来造轮子》</a>
+        <a href="https://github.com/haixiangyan/make-wheels" target="_blank">《一起来造轮子》</a>
       </th>
       <th>前端进阶必看的造轮子小书</th>
       <th>
-        <img src="https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=flat-square" alt="badge">
-        <img src="https://img.shields.io/github/forks/haixiangyan/one-day-one-npm-lib?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/stars/haixiangyan/make-wheels?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/forks/haixiangyan/make-wheels?style=flat-square" alt="badge">
       </th>
     </tr>
   </tbody>
 </table>
 <h2>💼 项目</h2>
+<p>下面是我在学前端的路上写的一些个人项目，有的比较认真 🧐，有的只是为了好玩 🎮，有的比较沙雕 🤪。</p>
 <table>
   <thead align="center">
     <tr>
@@ -196,8 +206,8 @@
     </tr>
     <tr>
       <th>
-        <a href="https://github.yanhaixiang.com/guitar-editor/#/" target="_blank">
-        guitar-editor</a>
+        <a href="https://github.yanhaixiang.com/guitar-tabs-editor/#/" target="_blank">
+        guitar-tabs-editor</a>
       </th>
       <th>🎸 一个在线吉他谱编辑器</th>
       <th>
@@ -205,7 +215,7 @@
         <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&amp;logo=react-router&amp;logoColor=white" alt="badge">
       </th>
       <th>
-        <img src="https://img.shields.io/github/stars/haixiangyan/guitar-editor?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/stars/haixiangyan/guitar-tabs-editor?style=flat-square" alt="badge">
       </th>
     </tr>
     <tr>
@@ -292,6 +302,7 @@
   </tbody>
 </table>
 <h2>总览</h2>
+<p>Github 时常会更新不少新东西和好玩的项目哦~</p>
 <h3>数据统计</h3>
 <a href="https://github.com/haixiangyan" target="_blank">
   <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=haixiangyan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />

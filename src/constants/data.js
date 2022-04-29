@@ -33,9 +33,9 @@ const data = {
   books: [
     {
       logo: '🃏',
-      name: '《Jest 前端测试上车之路》',
+      name: '《Jest 上车速通之路》',
       desc: '【开发中...】前端最全的 Jest 上手指南，一个项目贯穿前端测试的暗坑和测试技巧 ',
-      url: 'https://github.com/haixiangyan/jest-starter',
+      url: 'https://github.com/haixiangyan/jest-tutorial',
       cover: `${imagePrefix}/covers/jest.jpg`,
       badges: []
     },
@@ -51,9 +51,9 @@ const data = {
       logo: '👮',
       name: '《前端 Linter 上手完全指南》',
       desc: '前端最全的关于 Linter 的上手小书',
-      url: 'https://github.yanhaixiang.com/linter-guide/',
+      url: 'https://github.yanhaixiang.com/linter-tutorial/',
       cover: `${imagePrefix}/covers/linter.jpg`,
-      badges: ['https://img.shields.io/github/stars/haixiangyan/linter-guide?style=flat-square']
+      badges: ['https://img.shields.io/github/stars/haixiangyan/linter-tutorial?style=flat-square']
     },
     {
       logo: '🏠',
@@ -67,11 +67,11 @@ const data = {
       logo: '🔥',
       name: '《一起来造轮子》',
       desc: '前端进阶必看的造轮子小书',
-      url: 'https://github.com/haixiangyan/one-day-one-npm-lib',
+      url: 'https://github.com/haixiangyan/make-wheels',
       cover: `${imagePrefix}/covers/wheel.jpg`,
       badges: [
-        'https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=flat-square',
-        'https://img.shields.io/github/forks/haixiangyan/one-day-one-npm-lib?style=flat-square',
+        'https://img.shields.io/github/stars/haixiangyan/make-wheels?style=flat-square',
+        'https://img.shields.io/github/forks/haixiangyan/make-wheels?style=flat-square',
       ]
     },
   ],
@@ -130,12 +130,12 @@ const data = {
     },
     {
       logo: '🎸',
-      repo: 'guitar-editor',
+      repo: 'guitar-tabs-editor',
       desc: '一个在线吉他谱编辑器',
-      github: 'https://github.com/haixiangyan/guitar-editor',
-      preview: 'https://github.yanhaixiang.com/guitar-editor/#/',
+      github: 'https://github.com/haixiangyan/guitar-tabs-editor',
+      preview: 'https://github.yanhaixiang.com/guitar-tabs-editor/#/',
       techList: [badges.React, badges.ReactRouter],
-      badges: ['https://img.shields.io/github/stars/haixiangyan/guitar-editor?style=flat-square'],
+      badges: ['https://img.shields.io/github/stars/haixiangyan/guitar-tabs-editor?style=flat-square'],
     },
     {
       logo: '🧾',

@@ -6,13 +6,21 @@ on:
   pull_request:
     branches: [ master ]
   schedule:
-    - cron: '0 */3 * * *'
+    # UTC + 8 = 中国时区
+    # 22:30 + 8 = 6:30（明天） 每 6 点半触发一次
+    - cron: '30 22 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      - name: 设置时区
+        uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: 'Asia/Shanghai'
+          timezoneMacos: "Asia/Shanghai"
+          timezoneWindows: "Asia/Shanghai"
       - name: Checkout
         uses: actions/checkout@v3
       - name: 环境配置
@@ -28,6 +36,8 @@ jobs:
       - name: 安装依赖
         run: npm install
       - name: 生成 README.md
+        env:
+          M3O_TOKEN: ${{ secrets.M3O_TOKEN }}
         run: npm run build --if-present
       - name: 推送新 README.md
         uses: mikeal/publish-to-github-action@master
