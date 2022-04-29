@@ -58,6 +58,7 @@
     <thead align="center">
     <tr>
         <th>项目</th>
+        <th>Github</th>
         <th>简述</th>
         <th>技术</th>
         <th>成就</th>
@@ -71,6 +72,9 @@
                 <a href="<%= project.preview || project.github %>" target="_blank">
                     <%= project.repo %>
                 </a>
+            </th>
+            <th>
+                <a href="<%= project.github %>" target="_blank">Github</a>
             </th>
             <th><%= project.logo %> <%= project.desc %></th>
             <th>

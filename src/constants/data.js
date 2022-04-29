@@ -123,9 +123,9 @@ const data = {
       preview: 'https://chrome.google.com/webstore/detail/code-block-beautifier/gpcjjddhdnilcbddlonlfgdbejfboonn',
       techList: [badges.JavaScript, badges.CSS],
       badges: [
-        'https://img.shields.io/github/stars/Haixiang6123/codeblock-beautifier?style=flat-square',
-        'https://img.shields.io/github/stars/haixiangyan/codeblock-beautifier?style=flat-square',
+        'https://img.shields.io/chrome-web-store/users/gpcjjddhdnilcbddlonlfgdbejfboonn?style=flat-square',
         'https://img.shields.io/chrome-web-store/stars/gpcjjddhdnilcbddlonlfgdbejfboonn?style=flat-square',
+        'https://img.shields.io/github/stars/haixiangyan/codeblock-beautifier?style=flat-square',
       ],
     },
     {
@@ -184,7 +184,9 @@ const data = {
       github: 'https://github.com/haixiangyan/banana',
       preview: 'https://github.yanhaixiang.com/banana/',
       techList: [badges.CSS],
-      badges: [],
+      badges: [
+        'https://img.shields.io/github/stars/haixiangyan/banana?style=flat-square',
+      ],
     },
     {
       logo: '🐱🐶👩',
@@ -193,7 +195,9 @@ const data = {
       github: 'https://github.com/haixiangyan/cat-dog-lover',
       preview: 'https://github.yanhaixiang.com/cat-dog-lover/',
       techList: [badges.JavaScript],
-      badges: [],
+      badges: [
+        'https://img.shields.io/github/stars/haixiangyan/cat-dog-lover?style=flat-square',
+      ],
     },
   ]
 }
