@@ -23,7 +23,7 @@ const getStateCNName = (state) => {
 }
 
 // 获取当前天气
-const getWeather = async (location) => {
+const getWeather = async () => {
   const res = await axios.request({
     method: 'GET',
     baseURL,

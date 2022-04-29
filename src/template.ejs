@@ -3,8 +3,8 @@
 <blockquote>最后更新于 <%= updatedAt %>（每天早上 6:30 自动更新）</blockquote>
 
 <p>
-    坐标深圳，今天最低温度 <%= weather.consolidated_weather[0].min_temp %> 度，
-    最高 <%= weather.consolidated_weather[0].max_temp %> 度，
+    坐标深圳，今天最低温度 <%= (weather.consolidated_weather[0].min_temp).toFixed(2) %> 度，
+    最高 <%= (weather.consolidated_weather[0].max_temp).toFixed(2) %> 度，
     <%= getStateCNName(weather.consolidated_weather[0].weather_state_abbr) %>
     <img width="32" src="<%= getIconUrl(weather.consolidated_weather[0].weather_state_abbr) %>" alt="天气">。
 </p>
