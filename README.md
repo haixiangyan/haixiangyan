@@ -1,9 +1,9 @@
 <h2>☀️ 今天</h2>
-<blockquote>最后更新于 2022年05月07日 06时39分（每天早上 6:30 自动更新）</blockquote>
+<blockquote>最后更新于 2022年05月08日 06时38分（每天早上 6:30 自动更新）</blockquote>
 <p>
-坐标深圳，今天最低温度 23.14 度， 最高 26.61 度， 小雨 <img width="32" src="https://www.metaweather.com/static/img/weather/lr.svg" alt="天气">。</p>
+坐标深圳，今天最低温度 22.89 度， 最高 27.79 度， 阵雨 <img width="32" src="https://www.metaweather.com/static/img/weather/s.svg" alt="天气">。</p>
 <p>每日一图：</p>
-<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.HertfordshireBluebells_EN-US4578338154_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
+<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.SwedishAntenna_EN-US4697496933_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
 <h2>🤩 我</h2>
 <img src="https://visitor-badge.glitch.me/badge?page_id=haixiangyan" alt="visitor badge" />
 <img src="https://github.com/haixiangyan/haixiangyan/actions/workflows/node.js.yml/badge.svg" alt="build badge" />
