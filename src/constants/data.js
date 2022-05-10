@@ -40,12 +40,15 @@ const data = {
       badges: []
     },
     {
-      logo: '🐛',
-      name: '《坑》',
-      desc: '【连载中...】我在开发过程中遇到的坑',
-      url: 'https://github.com/haixiangyan/keng',
-      cover: `${imagePrefix}/covers/keng.jpg`,
-      badges: []
+      logo: '🔥',
+      name: '《一起来造轮子》',
+      desc: '前端进阶必看的造轮子小书',
+      url: 'https://github.com/haixiangyan/make-wheels',
+      cover: `${imagePrefix}/covers/wheel.jpg`,
+      badges: [
+        'https://img.shields.io/github/stars/Haixiang6123/make-wheels?style=flat-square',
+        'https://img.shields.io/github/forks/haixiangyan/make-wheels?style=flat-square',
+      ]
     },
     {
       logo: '👮',
@@ -64,45 +67,15 @@ const data = {
       badges: ['https://img.shields.io/github/stars/wecom-sidebar?style=flat-square'],
     },
     {
-      logo: '🔥',
-      name: '《一起来造轮子》',
-      desc: '前端进阶必看的造轮子小书',
-      url: 'https://github.com/haixiangyan/make-wheels',
-      cover: `${imagePrefix}/covers/wheel.jpg`,
-      badges: [
-        'https://img.shields.io/github/stars/Haixiang6123/make-wheels?style=flat-square',
-        'https://img.shields.io/github/forks/haixiangyan/make-wheels?style=flat-square',
-      ]
+      logo: '🐛',
+      name: '《坑》',
+      desc: '【连载中...】我在开发过程中遇到的坑',
+      url: 'https://github.com/haixiangyan/keng',
+      cover: `${imagePrefix}/covers/keng.jpg`,
+      badges: []
     },
   ],
   projects: [
-    {
-      logo: '🎧',
-      repo: 'ttplayer',
-      desc: '千千静听',
-      github: 'https://github.com/haixiangyan/ttplayer',
-      preview: 'https://github.yanhaixiang.com/ttplayer/',
-      techList: [badges.JavaScript],
-      badges: ['https://img.shields.io/github/stars/haixiangyan/ttplayer?style=flat-square'],
-    },
-    {
-      logo: '🐱',
-      repo: 'nest-todo',
-      desc: '一个 Nest.js 的练手项目',
-      github: 'https://github.com/haixiangyan/nest-todo',
-      preview: '',
-      techList: [badges.NestJS, badges.TypeScript],
-      badges: ['https://img.shields.io/github/stars/haixiangyan/nest-todo?style=flat-square'],
-    },
-    {
-      logo: '👦',
-      repo: 'me',
-      desc: '个人主页',
-      github: 'https://github.com/haixiangyan/me',
-      url: 'https://yanhaixiang.com',
-      techList: [badges.React, badges.TypeScript, badges.Scss],
-      badges: ['https://img.shields.io/github/stars/haixiangyan/me?style=flat-square'],
-    },
     {
       logo: '🎮',
       repo: 'overwatch-ui',
@@ -136,6 +109,33 @@ const data = {
       preview: 'https://github.yanhaixiang.com/guitar-tabs-editor/#/',
       techList: [badges.React, badges.ReactRouter],
       badges: ['https://img.shields.io/github/stars/haixiangyan/guitar-tabs-editor?style=flat-square'],
+    },
+    {
+      logo: '🎧',
+      repo: 'ttplayer',
+      desc: '千千静听',
+      github: 'https://github.com/haixiangyan/ttplayer',
+      preview: 'https://github.yanhaixiang.com/ttplayer/',
+      techList: [badges.JavaScript],
+      badges: ['https://img.shields.io/github/stars/haixiangyan/ttplayer?style=flat-square'],
+    },
+    {
+      logo: '🐱',
+      repo: 'nest-todo',
+      desc: '一个 Nest.js 的练手项目',
+      github: 'https://github.com/haixiangyan/nest-todo',
+      preview: '',
+      techList: [badges.NestJS, badges.TypeScript],
+      badges: ['https://img.shields.io/github/stars/haixiangyan/nest-todo?style=flat-square'],
+    },
+    {
+      logo: '👦',
+      repo: 'me',
+      desc: '个人主页',
+      github: 'https://github.com/haixiangyan/me',
+      url: 'https://yanhaixiang.com',
+      techList: [badges.React, badges.TypeScript, badges.Scss],
+      badges: ['https://img.shields.io/github/stars/haixiangyan/me?style=flat-square'],
     },
     {
       logo: '🧾',
@@ -184,15 +184,6 @@ const data = {
       github: 'https://github.com/haixiangyan/banana',
       preview: 'https://github.yanhaixiang.com/banana/',
       techList: [badges.CSS],
-      badges: [],
-    },
-    {
-      logo: '🐱🐶👩',
-      repo: 'cat-dog-lover',
-      desc: '做只猫做只狗不做情人',
-      github: 'https://github.com/haixiangyan/cat-dog-lover',
-      preview: 'https://github.yanhaixiang.com/cat-dog-lover/',
-      techList: [badges.JavaScript],
       badges: [],
     },
   ]
