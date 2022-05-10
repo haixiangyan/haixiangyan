@@ -1,10 +1,10 @@
 <h2>☀️ 今天</h2>
-<blockquote>最后更新于 2022年05月10日 19时21分（每天早上 6:30 自动更新）</blockquote>
+<blockquote>最后更新于 2022年05月11日 06时39分（每天早上 6:30 自动更新）</blockquote>
 <img src="https://visitor-badge.glitch.me/badge?page_id=haixiangyan" alt="visitor badge" />
 <img src="https://github.com/haixiangyan/haixiangyan/actions/workflows/node.js.yml/badge.svg" alt="build badge" />
 <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="手势"> 我是海怪.</p>
 <p>
-坐标深圳，今天最低温度 23.30 度， 最高 27.34 度， 暴雨 <img width="32" src="https://www.metaweather.com/static/img/weather/hr.svg" alt="天气">。</p>
+坐标深圳，今天最低温度 23.21 度， 最高 25.85 度， 暴雨 <img width="32" src="https://www.metaweather.com/static/img/weather/hr.svg" alt="天气">。</p>
 <p>每日一图：</p>
 <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.GiffordPinchot_EN-US4980175686_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
 <h2>🙌 社交</h2>
