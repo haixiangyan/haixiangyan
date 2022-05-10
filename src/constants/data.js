@@ -46,7 +46,7 @@ const data = {
       url: 'https://github.com/haixiangyan/make-wheels',
       cover: `${imagePrefix}/covers/wheel.jpg`,
       badges: [
-        'https://img.shields.io/github/stars/Haixiang6123/make-wheels?style=flat-square',
+        'https://img.shields.io/github/stars/haixiangyan/make-wheels?style=flat-square',
         'https://img.shields.io/github/forks/haixiangyan/make-wheels?style=flat-square',
       ]
     },
@@ -96,9 +96,9 @@ const data = {
       preview: 'https://chrome.google.com/webstore/detail/code-block-beautifier/gpcjjddhdnilcbddlonlfgdbejfboonn',
       techList: [badges.JavaScript, badges.CSS],
       badges: [
-        'https://img.shields.io/github/stars/Haixiang6123/codeblock-beautifier?style=flat-square',
-        'https://img.shields.io/github/stars/haixiangyan/codeblock-beautifier?style=flat-square',
+        'https://img.shields.io/chrome-web-store/users/gpcjjddhdnilcbddlonlfgdbejfboonn?style=flat-square',
         'https://img.shields.io/chrome-web-store/stars/gpcjjddhdnilcbddlonlfgdbejfboonn?style=flat-square',
+        'https://img.shields.io/github/stars/haixiangyan/codeblock-beautifier?style=flat-square',
       ],
     },
     {

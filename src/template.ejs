@@ -8,8 +8,8 @@
 <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="手势"> 我是海怪.</p>
 
 <p>
-    坐标深圳，今天最低温度 <%= weather.consolidated_weather[0].min_temp %> 度，
-    最高 <%= weather.consolidated_weather[0].max_temp %> 度，
+    坐标深圳，今天最低温度 <%= (weather.consolidated_weather[0].min_temp).toFixed(2) %> 度，
+    最高 <%= (weather.consolidated_weather[0].max_temp).toFixed(2) %> 度，
     <%= getStateCNName(weather.consolidated_weather[0].weather_state_abbr) %>
     <img width="32" src="<%= getIconUrl(weather.consolidated_weather[0].weather_state_abbr) %>" alt="天气">。
 </p>
@@ -81,6 +81,7 @@
     <thead align="center">
     <tr>
         <th>项目</th>
+        <th>Github</th>
         <th>简述</th>
         <th>技术</th>
         <th>成就</th>
@@ -94,6 +95,9 @@
                 <a href="<%= project.preview || project.github %>" target="_blank">
                     <%= project.repo %>
                 </a>
+            </th>
+            <th>
+                <a href="<%= project.github %>" target="_blank">Github</a>
             </th>
             <th><%= project.logo %> <%= project.desc %></th>
             <th>
