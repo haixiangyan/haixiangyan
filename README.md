@@ -60,7 +60,7 @@
   <tbody align="left">
     <tr>
       <th align="center">
-        <img width="80" src="./src/images/covers/jest.jpg" alt="《Jest 上车速通之路》">
+        <img width="80" src="./src/images/covers/jest.jpeg" alt="《Jest 实践指南》">
       </th>
       <th>
         <a href="https://github.com/haixiangyan/jest-tutorial" target="_blank">《Jest 上车速通之路》</a>
