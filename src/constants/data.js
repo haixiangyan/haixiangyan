@@ -33,8 +33,8 @@ const data = {
   books: [
     {
       logo: '🃏',
-      name: '《Jest 上车速通之路》',
-      desc: '【开发中...】前端最全的 Jest 上手指南，一个项目贯穿前端测试的暗坑和测试技巧 ',
+      name: '《Jest 实践指南》',
+      desc: 'Jest 上手完成指南，从 0 到 1 学会前端测试的技巧、思路、策略和套路。',
       url: 'https://github.com/haixiangyan/jest-tutorial',
       cover: `${imagePrefix}/covers/jest.jpg`,
       badges: []
