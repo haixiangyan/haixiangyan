@@ -1,10 +1,10 @@
 <h2>☀️ 今天</h2>
-<blockquote>最后更新于 2022年05月17日 06时39分（每天早上 6:30 自动更新）</blockquote>
+<blockquote>最后更新于 2022年05月17日 11时37分（每天早上 6:30 自动更新）</blockquote>
 <img src="https://visitor-badge.glitch.me/badge?page_id=haixiangyan" alt="visitor badge" />
 <img src="https://github.com/haixiangyan/haixiangyan/actions/workflows/node.js.yml/badge.svg" alt="build badge" />
 <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="手势"> 我是海怪.</p>
 <p>
-坐标深圳，今天最低温度 18.09 度， 最高 26.37 度， 多云 <img width="32" src="https://www.metaweather.com/static/img/weather/hc.svg" alt="天气">。</p>
+坐标深圳，今天最低温度 19.18 度， 最高 27.26 度， 多云 <img width="32" src="https://www.metaweather.com/static/img/weather/hc.svg" alt="天气">。</p>
 <p>每日一图：</p>
 <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.PawneeOwls_EN-US5086668928_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
 <h2>🙌 社交</h2>
@@ -64,7 +64,7 @@
       <th>
         <a href="https://github.com/haixiangyan/jest-tutorial" target="_blank">《Jest 实践指南》</a>
       </th>
-      <th>Jest 上手完成指南，从 0 到 1 学会前端测试的技巧、思路、策略和套路。</th>
+      <th>Jest 上手完全指南，从 0 到 1 学会前端测试的技巧、思路、策略和套路。</th>
       <th>
         <img src="https://img.shields.io/github/stars/haixiangyan/jest-tutorial?style=flat-square" alt="badge">
       </th>
