@@ -32,16 +32,6 @@ const data = {
   ],
   books: [
     {
-      logo: '🃏',
-      name: '《Jest 实践指南》',
-      desc: 'Jest 上手完全指南，从 0 到 1 学会前端测试的技巧、思路、策略和套路。',
-      url: 'https://github.com/haixiangyan/jest-tutorial',
-      cover: `${imagePrefix}/covers/jest.jpeg`,
-      badges: [
-        'https://img.shields.io/github/stars/haixiangyan/jest-tutorial?style=flat-square',
-      ]
-    },
-    {
       logo: '🔥',
       name: '《一起来造轮子》',
       desc: '前端进阶必看的造轮子小书',
@@ -50,6 +40,16 @@ const data = {
       badges: [
         'https://img.shields.io/github/stars/haixiangyan/make-wheels?style=flat-square',
         'https://img.shields.io/github/forks/haixiangyan/make-wheels?style=flat-square',
+      ]
+    },
+    {
+      logo: '🃏',
+      name: '《Jest 实践指南》',
+      desc: 'Jest 上手完全指南，从 0 到 1 学会前端测试的技巧、思路、策略和套路。',
+      url: 'https://github.com/haixiangyan/jest-tutorial',
+      cover: `${imagePrefix}/covers/jest.jpeg`,
+      badges: [
+        'https://img.shields.io/github/stars/haixiangyan/jest-tutorial?style=flat-square',
       ]
     },
     {
@@ -91,6 +91,15 @@ const data = {
       ],
     },
     {
+      logo: '🐱',
+      repo: 'nest-todo',
+      desc: '一个 Nest.js 的练手项目',
+      github: 'https://github.com/haixiangyan/nest-todo',
+      preview: '',
+      techList: [badges.NestJS, badges.TypeScript],
+      badges: ['https://img.shields.io/github/stars/haixiangyan/nest-todo?style=flat-square'],
+    },
+    {
       logo: '💅',
       repo: 'codeblock-beautifier',
       desc: '一个用于美化网页代码块的 Chrome 插件',
@@ -120,15 +129,6 @@ const data = {
       preview: 'https://github.yanhaixiang.com/ttplayer/',
       techList: [badges.JavaScript],
       badges: ['https://img.shields.io/github/stars/haixiangyan/ttplayer?style=flat-square'],
-    },
-    {
-      logo: '🐱',
-      repo: 'nest-todo',
-      desc: '一个 Nest.js 的练手项目',
-      github: 'https://github.com/haixiangyan/nest-todo',
-      preview: '',
-      techList: [badges.NestJS, badges.TypeScript],
-      badges: ['https://img.shields.io/github/stars/haixiangyan/nest-todo?style=flat-square'],
     },
     {
       logo: '👦',
