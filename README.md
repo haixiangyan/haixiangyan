@@ -1,11 +1,8 @@
 <h2>☀️ 今天</h2>
-<blockquote>最后更新于 2022年05月18日 18时28分（每天早上 6:30 自动更新）</blockquote>
+<blockquote>最后更新于 2022年06月22日 16时11分（每天早上 6:30 自动更新）</blockquote>
 <img src="https://visitor-badge.glitch.me/badge?page_id=haixiangyan" alt="visitor badge"/><img src="https://github.com/haixiangyan/haixiangyan/actions/workflows/node.js.yml/badge.svg" alt="build badge" />
-<p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="手势"> 我是海怪.</p>
-<p>
-坐标深圳，今天最低温度 20.11 度， 最高 26.84 度， 多云 <img width="32" src="https://www.metaweather.com/static/img/weather/hc.svg" alt="天气">。</p>
-<p>每日一图：</p>
-<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.KansasPrairiefire_EN-US6008489579_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
+<p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="手势"> 我是海怪，坐标深圳。每天分享一图：</p>
+<img width="100%" align="center" src="" alt="background">
 <h2>🙌 社交</h2>
 <p>经常在各大平台出没 👻，可以搜索我的全网账号<b>【写代码的海怪】</b>找到我。每周定期更新一篇博文，关注我，一起开心写代码，快乐学编程 💪！</p>
 <table>
@@ -58,18 +55,6 @@
   <tbody align="left">
     <tr>
       <th align="center">
-        <img width="80" src="./src/images/covers/jest.jpeg" alt="《Jest 实践指南》">
-      </th>
-      <th>
-        <a href="https://github.com/haixiangyan/jest-tutorial" target="_blank">《Jest 实践指南》</a>
-      </th>
-      <th>Jest 上手完全指南，从 0 到 1 学会前端测试的技巧、思路、策略和套路。</th>
-      <th>
-        <img src="https://img.shields.io/github/stars/haixiangyan/jest-tutorial?style=flat-square" alt="badge">
-      </th>
-    </tr>
-    <tr>
-      <th align="center">
         <img width="80" src="./src/images/covers/wheel.jpg" alt="《一起来造轮子》">
       </th>
       <th>
@@ -79,6 +64,18 @@
       <th>
         <img src="https://img.shields.io/github/stars/haixiangyan/make-wheels?style=flat-square" alt="badge">
         <img src="https://img.shields.io/github/forks/haixiangyan/make-wheels?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th align="center">
+        <img width="80" src="./src/images/covers/jest.jpeg" alt="《Jest 实践指南》">
+      </th>
+      <th>
+        <a href="https://github.com/haixiangyan/jest-tutorial" target="_blank">《Jest 实践指南》</a>
+      </th>
+      <th>Jest 上手完全指南，从 0 到 1 学会前端测试的技巧、思路、策略和套路。</th>
+      <th>
+        <img src="https://img.shields.io/github/stars/haixiangyan/jest-tutorial?style=flat-square" alt="badge">
       </th>
     </tr>
     <tr>
@@ -151,6 +148,23 @@
     </tr>
     <tr>
       <th>
+        <a href="https://github.com/haixiangyan/nest-todo" target="_blank">
+        nest-todo</a>
+      </th>
+      <th>
+        <a href="https://github.com/haixiangyan/nest-todo" target="_blank">Github</a>
+      </th>
+      <th>🐱 一个 Nest.js 的练手项目</th>
+      <th>
+        <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&amp;logo=nestjs&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/haixiangyan/nest-todo?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
         <a href="https://chrome.google.com/webstore/detail/code-block-beautifier/gpcjjddhdnilcbddlonlfgdbejfboonn" target="_blank">
         codeblock-beautifier</a>
       </th>
@@ -199,23 +213,6 @@
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/haixiangyan/ttplayer?style=flat-square" alt="badge">
-      </th>
-    </tr>
-    <tr>
-      <th>
-        <a href="https://github.com/haixiangyan/nest-todo" target="_blank">
-        nest-todo</a>
-      </th>
-      <th>
-        <a href="https://github.com/haixiangyan/nest-todo" target="_blank">Github</a>
-      </th>
-      <th>🐱 一个 Nest.js 的练手项目</th>
-      <th>
-        <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&amp;logo=nestjs&amp;logoColor=white" alt="badge">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/stars/haixiangyan/nest-todo?style=flat-square" alt="badge">
       </th>
     </tr>
     <tr>
