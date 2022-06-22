@@ -17,13 +17,12 @@ const main = async () => {
 
   const tplStr = fs.readFileSync(tplPath, 'utf8');
 
-  const [weather, background] = await Promise.all([
+  const [background] = await Promise.all([
     getBackground(),
   ]);
 
   const html = ejs.render(tplStr, {
     ...data,
-    weather,
     background,
     updatedAt,
   });
