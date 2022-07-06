@@ -1,8 +1,8 @@
 <h2>☀️ 今天</h2>
-<blockquote>最后更新于 2022年07月06日 06时38分（每天早上 6:30 自动更新）</blockquote>
+<blockquote>最后更新于 2022年07月06日 16时04分（每天早上 6:30 自动更新）</blockquote>
 <img src="https://visitor-badge.glitch.me/badge?page_id=haixiangyan" alt="visitor badge"/><img src="https://github.com/haixiangyan/haixiangyan/actions/workflows/node.js.yml/badge.svg" alt="build badge" />
 <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是海怪，坐标深圳。每天分享一图：</p>
-<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.FannetteIsland_EN-US7369656560_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
+<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.KissingPuffins_EN-US7469101764_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
 <h2>🙌 社交</h2>
 <p>经常在各大平台出没 👻，可以搜索我的全网账号<b>【写代码的海怪】</b>找到我。每周定期更新一篇博文，关注我，一起开心写代码，快乐学编程 💪！</p>
 <table>
@@ -319,15 +319,3 @@
     </tr>
   </tbody>
 </table>
-<h2>总览</h2>
-<p>Github 时常会更新不少新东西和好玩的项目哦~</p>
-<h3>数据统计</h3>
-<a href="https://github.com/haixiangyan" target="_blank">
-  <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=haixiangyan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
-</a>
-<a href="https://github.com/haixiangyan" target="_blank">
-  <img alt="常用开发语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haixiangyan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" />
-</a>
-<br>
-<h3>活跃度</h3>
-<img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=haixiangyan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
