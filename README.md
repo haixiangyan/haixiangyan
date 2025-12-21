@@ -1,8 +1,8 @@
 <h2>☀️ 今天</h2>
-<blockquote>最后更新于 2025年12月21日 06时39分（每天早上 6:30 自动更新）</blockquote>
+<blockquote>最后更新于 2025年12月22日 06时40分（每天早上 6:30 自动更新）</blockquote>
 <img src="https://github.com/haixiangyan/haixiangyan/actions/workflows/node.js.yml/badge.svg" alt="build badge" />
 <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是海怪，坐标深圳。每天分享一图：</p>
-<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
+<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
 <h2>🙌 社交</h2>
 <p>经常在各大平台出没 👻，可以搜索我的全网账号<b>【写代码的海怪】</b>找到我。每周定期更新一篇博文，关注我，一起开心写代码，快乐学编程 💪！</p>
 <table>
